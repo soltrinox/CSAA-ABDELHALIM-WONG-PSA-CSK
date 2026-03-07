@@ -12,7 +12,7 @@
 |---|---|---|---|
 | EXHIBIT-001 | CSAA Insurance Investigation Report | 2021 | [PDF](EXHIBIT-001-CSAA-Investigation-Report.pdf) |
 | EXHIBIT-006 | Plaintiff Franciscus Rosario — Deposition Exhibit | 2022 | [PDF](EXHIBIT-006-Plaintiff-Deposition.pdf) |
-| FATAL-ADMISSION | Trial Day 7 Transcript Excerpt (Admission of Prior Counsel Production) | April 16, 2025 | [MD](EXHIBIT-TRIAL-DAY-7-ADMISSION.md) |
+| FATAL-ADMISSION | Trial Day 7 Transcript Excerpt (Admission of Prior Counsel Production) | April 16, 2025 | [PDF](EXHIBIT-TRIAL-DAY-7-ADMISSION.pdf) |
 | Trial Day 7 Exhibits | Exhibits entered/referenced — Trial Day 7 | April 16, 2025 | [PDF](EXHIBIT-Trial-Day7-April16-2025.pdf) |
 | Trial Day 8 Exhibits | Exhibits entered/referenced — Trial Day 8 | April 17, 2025 | [PDF](EXHIBIT-Trial-Day8-April17-2025.pdf) |
 | Trial Day 10 Exhibits | Exhibits entered/referenced — Trial Day 10 | April 22, 2025 | [PDF](EXHIBIT-Trial-Day10-April22-2025.pdf) |
