@@ -189,6 +189,7 @@ All from [The Crime](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor) and
 ├── 01-APPEAL/                   # Appeal A173827
 ├── 02-CASE-CGC-25-631801/       # Equity action (extrinsic fraud)
 ├── 03-CASE-CGC-25-631802/       # Insurance fraud / UCL action
+├── pleadings/                   # Consolidated pleadings (memoranda, demands, RJN, RFAs, CSAA service masters)
 ├── 04-EXHIBITS/                 # Trial exhibits, CSAA report, subpoenas
 ├── 05-TRANSCRIPTS/              # Reporter's transcripts, depositions, hearings
 ├── 06-EVIDENCE/                 # Bar complaints, judicial complaint
@@ -214,8 +215,9 @@ All from [The Crime](https://aaa-sonoma-liquor.gitbook.io/aaa-sonoma-liquor) and
 | Category | Notable PDFs |
 |----------|--------------|
 | **Appeal** | [Appellant's Opening Brief](01-APPEAL/01-Appellants-Opening-Brief.pdf), [Supplemental Memorandum](01-APPEAL/05-Appellants-Supplemental-Memorandum.pdf) |
-| **Equity Action** | [Second Amended Complaint](02-CASE-CGC-25-631801/01-Second-Amended-Complaint.pdf), [Memorandum Fraud on Court](02-CASE-CGC-25-631801/03-Memorandum-Fraud-on-Court.pdf) |
-| **Fraud Action** | [First Amended Complaint](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf), [Memorandum Denial Letter Fraud](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
+| **Equity Action** | [Second Amended Complaint](02-CASE-CGC-25-631801/01-Second-Amended-Complaint.pdf), [Memorandum Fraud on Court](02-CASE-CGC-25-631801/03-Memorandum-Fraud-on-Court.pdf), [Demand with Exhibits](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf), [Requests for Admission](02-CASE-CGC-25-631801/06-Requests-for-Admission.pdf) |
+| **Fraud Action** | [First Amended Complaint](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf), [Memorandum Denial Letter Fraud](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf), [Demand with Exhibits](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf), [Requests for Admission](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
+| **Pleadings (consolidated)** | [Memorandum and Supplemental 631801](pleadings/02-MEMORANDUM-AND-SUPPLEMENTAL-WITH-EXHIBITS-631801.pdf), [Memorandum and Supplemental 631802](pleadings/02-MEMORANDUM-AND-SUPPLEMENTAL-WITH-EXHIBITS-631802.pdf), [Demand with Exhibits 631801](pleadings/04-DEMAND-JUDICIAL-SUMMARY-OF-FACTS-WITH-EXHIBITS-631801.pdf), [Demand with Exhibits 631802](pleadings/04-DEMAND-JUDICIAL-SUMMARY-OF-FACTS-WITH-EXHIBITS-631802.pdf), [CSAA Service Master](pleadings/CSAA-SERVICE-MASTER.pdf) |
 | **Exhibits** | [CSAA Investigation Report](04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf), [Compex Subpoena](04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf) |
 | **Transcripts** | [Trial Day 7](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf) (Navaratnasingham admission), [Trial Day 8](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf) (Abdelhalim authentication), [Hearing Feb 18](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf) (Jessup testimony) |
 | **Depositions** | [Abdelhalim](05-TRANSCRIPTS/DEPOSITIONS/05-Subhi-Abdelhalim-Deposition-2022-09-30.pdf), [Rosario](05-TRANSCRIPTS/DEPOSITIONS/01-Franciscus-Rosario-Deposition-2022-08-18.pdf) |
