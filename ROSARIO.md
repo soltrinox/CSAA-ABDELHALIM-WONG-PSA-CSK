@@ -259,8 +259,13 @@ The post-trial litigation was designed so that:
 
 ## Legal Analysis
 
-- [Journal Article: Institutional Fraud, Record Architecture, and the Three-Front Pressure System](JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md)
-- [Fatal Proof of Extrinsic Fraud: The Navaratnasingham "Dolan" Admission](FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md)
+[View full Legal Analysis index](08-LEGAL-ANALYSIS/INDEX.md)
+
+| Document | Focus |
+|----------|-------|
+| [Court Reliance on False Representations](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) | How the court relied on defense counsel's false statements to make procedural and evidentiary rulings; five reliance instances; equity framework; damages |
+| [Fatal Proof: The Navaratnasingham "Dolan" Admission](08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) | Every contradicting statement cataloged; why the Trial Day 7 admission destroys the defense position |
+| [Journal Article: Three-Front Litigation Architecture](08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) | Technical analysis of the multi-front strategic design; *Advanced Civil Litigation Strategy Review* (2026) |
 
 ---
 

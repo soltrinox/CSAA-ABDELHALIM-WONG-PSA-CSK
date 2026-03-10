@@ -2,7 +2,7 @@
 
 **February 4, 2021 — Tehama & 5th Street, San Francisco. Hit-and-run. CGC-21-594102.**
 
-[← Back to case record](README.md) | [View with embedded videos & images](evidence.html)
+[< Back to case record](README.md) | [View with embedded videos & images](evidence.html) | [Legal Analysis](08-LEGAL-ANALYSIS/INDEX.md) | [Case Overview](ROSARIO.md)
 
 ---
 

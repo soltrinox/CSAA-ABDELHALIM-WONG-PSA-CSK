@@ -96,6 +96,17 @@ material evidence and fairly litigate liability.
 
 ---
 
+## Related Legal Analysis
+
+| Document | Link |
+|----------|------|
+| Court Reliance on False Representations (full analysis of how the court relied on the false statements) | [Read](../08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) |
+| Fatal Proof: The Navaratnasingham "Dolan" Admission (every contradicting statement cataloged) | [Read](../08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) |
+| Journal Article: Three-Front Litigation Architecture | [Read](../08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) |
+| Full Legal Analysis Index | [Read](../08-LEGAL-ANALYSIS/INDEX.md) |
+
+---
+
 ## Key Legal Authorities
 
 | Authority | Relevance |
