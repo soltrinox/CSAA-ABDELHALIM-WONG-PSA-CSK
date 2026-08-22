@@ -17,9 +17,9 @@
 
 An insurance company is not supposed to be the injured person's adversary. That is the whole point of the premium. CSAA Insurance Exchange treated Franciscus Dylan Rosario as an enemy anyway, and then spent five years making him pay for noticing.
 
-On February 4, 2021, a commercial driver struck Rosario from behind in a San Francisco crosswalk. The driver called 911. On a recording he later authenticated under oath, he said he had barely hit the man. Officers wore cameras. Dispatch logged the collision. Twenty-one days later, while Rosario was still in trauma care at San Francisco General, CSAA mailed him a letter declaring the investigation "concluded" and its insured not liable.
+On February 4, 2021, a commercial driver struck Rosario from behind in a San Francisco crosswalk. The driver called 911. On a recording he later authenticated under oath, he said he had barely hit the man. Officers wore cameras. Dispatch logged the collision. Rosario was admitted to the trauma ICU at Zuckerberg San Francisco General Hospital. Twenty days after that admission, he received an unsolicited, unilateral claims letter he had never requested. The letter claimed CSAA had performed an investigation and had concluded they were not liable.
 
-They had not obtained the 911 audio. They had not obtained the body-worn camera footage. They had not obtained the dispatch records. They certified a search they did not make and sent the certification into a hospital. That is not claims handling. It is a disgusting abuse of the word "investigation." It is institutional malice of a particular kind: the kind you practice only if you are sure the other side is too broken, too poor, or too exhausted to prove the file was empty.
+There was never any communication from CSAA about the defendant's 911 confession. There was never any communication about the body-cam video with third-party eyewitness statements. There was never any communication about the validity or merits of the victim-plaintiff's own statement on that 911 recording, declaring to operators that the man in the van had hit him. None of this was collected and considered. CSAA certified a search it did not make. That is not claims handling. It is a disgusting abuse of the word "investigation." It is institutional malice of a particular kind: the kind you practice only if you are sure the other side is too broken, too poor, or too exhausted to prove the file was empty.
 
 The proof arrived in CSAA's own paper.
 
@@ -27,7 +27,7 @@ In January 2025, appointed defense counsel swore the same 911 materials were of 
 
 A decent company, caught in two writings that cannot both be true, would explain the file. CSAA did the opposite. When Rosario asked courts to look at the contradiction, the carrier recast its 2021 claims letter as protected petitioning, won strike orders, and then asked a trial court to lock the courthouse and collect more than $70,000 in fees on rulings now on appeal. That is not defense. That is punishing the pedestrian who exposed the empty file.
 
-Insurance is supposed to stand between a body and ruin. On this record CSAA stood between a body and the truth, then billed him for asking a judge to look. That is despicable. Every California driver who pays CSAA for peace of mind deserves to know what that word was worth when it was mailed to a hospital bed.
+Insurance is supposed to stand between a body and ruin. On this record CSAA stood between a body and the truth, then billed him for asking a judge to look. That is despicable. Every California driver who pays CSAA for peace of mind deserves to know what the word "investigation" was worth on a letter sent twenty days after ICU admission, unsolicited.
 
 The human story, told without names: **[Read the story, told without names](WHAT-HAPPENS-TO-A-PERSON.md)**
 
