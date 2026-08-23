@@ -5,3 +5,7 @@ CASE-LAW-AND-STATUTES/.cache/
 Story*.md
 PRIVATE-DRAFTS/
 PUBLICATION-RULE.md
+
+# If this tree is ever copied here by mistake, do not publish it.
+STRATEGY-DANGER/
+**/STRATEGY-DANGER/

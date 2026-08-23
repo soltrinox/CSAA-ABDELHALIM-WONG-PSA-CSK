@@ -47,6 +47,18 @@ This site is a public record of court papers and of correspondence that was actu
 
 The rights are not slogans. They are specific, they are already invoked in papers a court has seen, and they are the reason a self-represented claimant may publish this archive without converting it into a pleading.
 
+### Notice of Constitutional Rights, Transparency, and Public Interest
+
+> **This notice is commentary.** It is not a court filing, is not service of any paper on any party, and does not restart any Code of Civil Procedure section 128.7 period. It discusses only the filed, served, or actually-sent material identified below and does not state a position beyond the papers already on file.
+
+**I. Speech.** The First Amendment and article I, section 2 protect speech about the public record. This commentary concerns the February 25, 2021 CSAA denial letter, which states that an investigation was performed and concluded, and the January 17, 2025 declarations supporting MIL Nos. 6 and 17, which address the 911 materials as unknown in origin or not in counsel's possession. Those filings and record materials are identified in Parts 1 and 2 below.
+
+**II. Petition.** The First Amendment and article I, sections 3 and 16 protect petitioning through court papers and the right to jury trial. The filed access and fee papers, and the July 27, 2026 safe-harbor letter that invokes article I, sections 3 and 16, are the source materials for this point. Speech and petition are distinct rights. Neither may be misconstrued, mislabeled, or weaponized to restrict legal standing or access to a tribunal.
+
+**III. Due process.** The Fourteenth Amendment and article I, section 7 protect due process, including access to the courts. The public discussion here does not adjudicate the denial letter, the declarations, or the access and fee papers. It identifies the filed or served positions already stated about those materials and preserves the distinction between a commentary page and a pleading.
+
+**IV. Transparency and public interest.** The sent correspondence archive and the filed record permit public examination of the denial letter, the declarations, and the treatment of the 911, body-worn camera, and dispatch materials. Publishing those sources as commentary does not convert them into service or a new court submission.
+
 ### Speech
 
 The **First Amendment** protects freedom of speech. **Article I, section 2** of the California Constitution does the same, and on its face it is at least as protective: every person may speak, write, and publish on all subjects, being responsible for the abuse of that right.
