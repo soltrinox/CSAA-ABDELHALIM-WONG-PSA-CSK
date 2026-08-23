@@ -69,3 +69,13 @@ cc: Mark Schubert, Porter Scott (mschubert@porterscott.com)
 cc: CSAA Insurance Exchange, General Counsel  
 cc: Phillips, Spallas & Angstadt LLP  
 cc: Carbone, Smith, Koyama & Chambers
+
+---
+
+## Archive reader note
+
+This block was added to the public archive on August 23, 2026. It is commentary. It is not part of the original email, not a court filing, not service, and does not restart any Code of Civil Procedure section 128.7 clock. If this thread is a lodged exhibit, this block is not part of the exhibit.
+
+**Thread.** Curated class page. See [THREADS.md](../full-archive/THREADS.md) for the mailbox chronology. prior: (see the full-archive twin if linked on this page) · next: (see the full-archive twin if linked on this page) · thread index: [THREADS.md](../full-archive/THREADS.md)
+
+**What this message is doing.** This page archives Rosario-sent text in the curated class named in the face banner. The page title is "2026 03 07 cover letter". Formal positions remain in the filed papers named on this page, not in this archive note.

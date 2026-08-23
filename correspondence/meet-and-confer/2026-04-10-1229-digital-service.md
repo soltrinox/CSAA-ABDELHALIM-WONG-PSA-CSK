@@ -38,3 +38,13 @@ I look forward to receiving the digital copies of your recent filings in my inbo
 Best regards,
 
 Dylan Rosario
+
+---
+
+## Archive reader note
+
+This block was added to the public archive on August 23, 2026. It is commentary. It is not part of the original email, not a court filing, not service, and does not restart any Code of Civil Procedure section 128.7 clock. If this thread is a lodged exhibit, this block is not part of the exhibit.
+
+**Thread.** [Group 3. The demurrer and anti-SLAPP impasse](../full-archive/THREADS.md#group-3-the-demurrer-and-anti-slapp-impasse) (2026-04-07 to 2026-04-17) · prior: [I 00042](../full-archive/inbound/00042.md) · next: [I 00046](../full-archive/inbound/00046.md) · thread index: [THREADS.md](../full-archive/THREADS.md#group-3-the-demurrer-and-anti-slapp-impasse)
+
+**What this message is doing.** This outbound message sits in Group 3. The demurrer and anti-SLAPP impasse (2026-04-07 to 2026-04-17). The mailbox subject is "Re: Rosario v. CSAA Insurance Exchange, San Francisco Superior Court, Case No. CGC-25-631802". It replies to the immediately prior inbound defense message linked above. It continues conferral on the parties' digital-service stipulation named in the body. Formal positions remain in the filed papers named on this page, not in this archive note.

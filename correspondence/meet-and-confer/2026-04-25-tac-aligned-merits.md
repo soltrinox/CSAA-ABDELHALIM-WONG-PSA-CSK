@@ -311,3 +311,13 @@ Putting all of the above together, the defense's "no merits" argument has been d
 The defense now has only two doors: respond substantively element-by-element (which concedes the merits are stateable and pleaded), or stay silent (which converts the "no merits" line into a sanctionable position the next time it is asserted).
 
 The most consequential single sentence in the letter is line 103 — that the 2021 representation of completeness and the 2025 representation of evidentiary absence "*requires bearing false witness in one direction or the other*." Once that framing is in the hands of the Court, the regulator, the defendants, and a corroborating witness simultaneously, no procedural maneuver can unmake it. The defense must now either explain the contradiction on the record with evidence — which is exactly what line 108 demands — or carry the contradiction unrebutted into every subsequent filing.
+
+---
+
+## Archive reader note
+
+This block was added to the public archive on August 23, 2026. It is commentary. It is not part of the original email, not a court filing, not service, and does not restart any Code of Civil Procedure section 128.7 clock. If this thread is a lodged exhibit, this block is not part of the exhibit.
+
+**Thread.** Curated class page. See [THREADS.md](../full-archive/THREADS.md) for the mailbox chronology. prior: (see the full-archive twin if linked on this page) · next: (see the full-archive twin if linked on this page) · thread index: [THREADS.md](../full-archive/THREADS.md)
+
+**What this message is doing.** This page archives Rosario-sent text in the curated class named in the face banner. The page title is "2026 04 25 tac aligned merits". Formal positions remain in the filed papers named on this page, not in this archive note.

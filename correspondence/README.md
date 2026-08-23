@@ -18,4 +18,8 @@ Defense From (O'Connell, Schubert, Blithe) is **not** published in the 32-event 
 
 Folders: [personal-dialogue/](personal-dialogue/) · [meet-and-confer/](meet-and-confer/) · [safe-harbor-1287/](safe-harbor-1287/) · [settlement-1152/](settlement-1152/) · [service-transmittal/](service-transmittal/) · [full-archive/](full-archive/)
 
+## Archive reader notes (foot of Rosario-sent pages)
+
+A labeled **Archive reader note** sits after the mailbox text on Rosario-sent pages. It was added to this public archive on August 23, 2026. It is commentary. It is not part of the original email, not a court filing, not service, and does not restart any Code of Civil Procedure section 128.7 clock. If the thread is a lodged exhibit, the note is not part of the exhibit. Layer A (thread and what the message is doing) appears on every Rosario-sent page. Layer B (tone) appears only where the sent body is personal dialogue or the tone is sharp or sarcastic; the locked wording is [banners/reader-note-outlet.md](banners/reader-note-outlet.md). Dry proof-of-service covers, packet transmittals, and calendar-only notes do not get Layer B unless the body itself is sarcastic. Mailbox bodies are not rewritten.
+
 [← Site root](../README.md) · [Hearings calendar](../HEARINGS-CALENDAR.md) · [Legal analysis](../08-LEGAL-ANALYSIS/INDEX.md)

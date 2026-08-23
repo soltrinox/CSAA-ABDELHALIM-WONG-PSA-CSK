@@ -17,6 +17,10 @@ This is the completeness set of Porter Scott query correspondence (export dated 
 
 Every message page carries its date, correspondent, subject, direction, and tier. Every row in every index links to the full message.
 
+## Archive reader notes
+
+Rosario-sent pages in [outbound/](outbound/) carry an **Archive reader note** after the mailbox text. The note was added to this public archive on August 23, 2026. It is commentary. It is not part of the original email, not a court filing, not service, and does not restart any Code of Civil Procedure section 128.7 clock. If the thread is a lodged exhibit, the note is not part of the exhibit. The note names the THREADS.md group, prior and next messages, and what that page's subject and body are doing. A locked tone paragraph ([../banners/reader-note-outlet.md](../banners/reader-note-outlet.md)) is added only where the sent body is personal dialogue or the tone is sharp or sarcastic. Dry proof-of-service covers, packet transmittals, and calendar-only notes do not get that tone paragraph unless the body itself is sarcastic. Mailbox bodies, including court-seen exhibit text, are not rewritten.
+
 ## How to read
 
 1. **Court-seen threads** publish complete and unredacted, matching the lodged exhibit. See [UNREDACTED-COURT-SEEN.md](UNREDACTED-COURT-SEEN.md).
