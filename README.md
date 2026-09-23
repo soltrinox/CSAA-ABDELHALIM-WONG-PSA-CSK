@@ -4,6 +4,12 @@
 
 > **Speech and petition (governing).** This archive is published as speech. The lawsuits are filed as petitions. Those are two different rights. The homepage states them in full under [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Publishing a page here is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
 
+## Public Interest Notice
+
+> **This section is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. It is not service of any paper on any party. It does not restart any Code of Civil Procedure section 128.7 period.
+
+This entire record is of public interest. The reasons are stated in [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md).
+
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court; Contra Costa Superior Court; California Court of Appeal, First Appellate District
 **Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 (equity, on appeal) · CGC-25-631802 (denial-letter fraud, on appeal) · C26-02801 (common-law deceit)
@@ -101,7 +107,7 @@ The rights are not slogans. They are specific, they are already invoked in paper
 
 **III. Due process.** The Fourteenth Amendment and article I, section 7 protect due process, including access to the courts. The public discussion here does not adjudicate the denial letter, the declarations, or the access and fee papers. It identifies the filed or served positions already stated about those materials and preserves the distinction between a commentary page and a pleading.
 
-**IV. Transparency and public interest.** The sent correspondence archive and the filed record permit public examination of the denial letter, the declarations, and the treatment of the 911, body-worn camera, and dispatch materials. Publishing those sources as commentary does not convert them into service or a new court submission.
+**IV. Transparency and public interest.** The sent correspondence archive and the filed record permit public examination of the denial letter, the declarations, and the treatment of the 911, body-worn camera, and dispatch materials. Publishing those sources as commentary does not convert them into service or a new court submission. The reasons this entire record is of public interest are stated in [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md).
 
 ### Speech
 
@@ -285,6 +291,7 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 
 | Commentary set | What it is |
 |----------------|------------|
+| [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary only. Not a filing. |
 | [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
 | [September 21-22, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served or received that day. Clerk filing of the 802 set is not shown. |
 
@@ -332,6 +339,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Anyone who has ever been denied | [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) | The human shape of a claim denial, told with no names and no case numbers |
 | Contra Costa common-law deceit | [C26-02801 core-wrong page](04-CASE-C26-02801/INDEX.md) | Filed complaint, *Moradi-Shalal* preservation clause, and supporting record links |
 | Speech and petition rights | [this page](#speech-petition-and-why-this-archive-is-public) · [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) | First Amendment; California Constitution article I, sections 2, 3, 7, and 16 |
+| Public interest | [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why the whole record is of public interest; commentary, not a filing |
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |
