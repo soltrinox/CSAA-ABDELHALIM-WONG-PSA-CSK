@@ -29,9 +29,9 @@
 
 ## Attachment
 
-One attachment on this message is not republished.
+One attachment on this message: the sent docket register. Defense lodged the same attachment as Exhibit C to the September 22, 2026 supplemental declaration (defense extract labels Sent 8:25 a.m.; this page records 8:24 a.m.). Subject and recipients match.
 
-[REDACTED - forthcoming instrument; not a description of the withheld words]
+Published page: [2026-09-22-commentary-waiver-register-attachment.md](2026-09-22-commentary-waiver-register-attachment.md). Lodged PDF: [Supplemental-Brief-Vexatious-Litigant-DEC-of-TOC.pdf](../../03-CASE-CGC-25-631802/sept22-2026-defense-supplemental-brief/Supplemental-Brief-Vexatious-Litigant-DEC-of-TOC.pdf).
 
 
 ## Sent text

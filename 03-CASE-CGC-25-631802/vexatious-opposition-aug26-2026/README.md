@@ -61,4 +61,6 @@ A separate defense proposed-order image is not a distinct DocID on the September
 
 ---
 
+**Commentary (not a filing):** [Vexatious exhibit commentary ledger](../../COMMENTARY/VEXATIOUS-EXHIBIT-LEDGER.md) lists the plaintiff writings lodged in the defense exhibits and links each published page.
+
 [← 802 index](../INDEX.md) · [Hearings calendar](../../HEARINGS-CALENDAR.md) · [Site root](../../README.md)

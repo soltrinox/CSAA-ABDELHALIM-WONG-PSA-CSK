@@ -36,7 +36,7 @@ On July 21, 2026, CSAA Insurance Exchange filed a motion under Code of Civil Pro
 
 On July 27, 2026, the plaintiff served a Code of Civil Procedure section 128.7 safe-harbor letter on those papers. The letter invokes article I, sections 3 and 16 of the California Constitution. [July 27, 2026 safe-harbor letter](../correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md).
 
-The September 22, 2026 sent commentary states the distinction already made in that letter and on this site: speech is not litigation, and publishing commentary about a public court record does not become the filing of a lawsuit. [Personal dialogue, September 22, 2026, 4:32 p.m.](../correspondence/personal-dialogue/2026-09-22-first-amendment-public-records.md).
+The September 22, 2026 sent commentary states the distinction already made in that letter and on this site: speech is not litigation, and publishing commentary about a public court record does not become the filing of a lawsuit. [Personal dialogue, September 22, 2026, 4:32 p.m.](../correspondence/personal-dialogue/2026-09-22-first-amendment-public-records.md). Each plaintiff writing the defense lodged as a vexatious ground is listed, with links to the published pages, in the [vexatious exhibit commentary ledger](VEXATIOUS-EXHIBIT-LEDGER.md).
 
 ## 5. Speech and petition are different rights
 

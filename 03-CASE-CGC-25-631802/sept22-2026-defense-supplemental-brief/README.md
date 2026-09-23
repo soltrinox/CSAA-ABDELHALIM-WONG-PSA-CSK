@@ -9,8 +9,10 @@ This is defense speech, mirrored as received.
 | [Supplemental-Brief-Vexatious-Litigant.pdf](Supplemental-Brief-Vexatious-Litigant.pdf) | Supplemental brief |
 | [Supplemental-Brief-Vexatious-Litigant-DEC-of-TOC.pdf](Supplemental-Brief-Vexatious-Litigant-DEC-of-TOC.pdf) | Declaration of Tyler J. O'Connell |
 
-Transmittal: [inbound page](../../../correspondence/full-archive/inbound/2026-09-22-schubert-supplemental-brief.md).
+Transmittal: [inbound page](../../correspondence/full-archive/inbound/2026-09-22-schubert-supplemental-brief.md).
 
 Plaintiff's served objection to this set: [September 22 objection](../sept22-2026-objection-defense-supp/README.md).
+
+**Commentary (not a filing):** [Vexatious exhibit commentary ledger](../../COMMENTARY/VEXATIOUS-EXHIBIT-LEDGER.md) lists Exhibit C and the earlier lodged plaintiff writings, with links to the published pages.
 
 [Case index](../INDEX.md)
