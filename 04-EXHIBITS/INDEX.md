@@ -1,8 +1,8 @@
 # Exhibits Index
 
-**Case:** Rosario v. Abdelhalim et al. (CGC-21-594102 / A173827)
+**Case:** Rosario v. Abdelhalim et al. (CGC-21-594102 / A173827). The same exhibit set is used as record support in C26-02801. Numbered pins: [../evidence.md](../evidence.md).
 
-[← Back to Case Root](../ROSARIO.md)
+[← Back to Case Root](../ROSARIO.md) · [C26-02801](../04-CASE-C26-02801/INDEX.md)
 
 ---
 
@@ -11,12 +11,12 @@
 | Exhibit | Description | Date | PDF |
 |---|---|---|---|
 | EXHIBIT-001 | CSAA Insurance Investigation Report | 2021 | [PDF](EXHIBIT-001-CSAA-Investigation-Report.pdf) |
-| EXHIBIT-006 | Plaintiff Franciscus Rosario — Deposition Exhibit | 2022 | [PDF](EXHIBIT-006-Plaintiff-Deposition.pdf) |
+| EXHIBIT-006 | Plaintiff Franciscus Rosario - Deposition Exhibit | 2022 | [PDF](EXHIBIT-006-Plaintiff-Deposition.pdf) |
 | FATAL-ADMISSION | Trial Day 7 Transcript Excerpt (Admission of Prior Counsel Production) | April 16, 2025 | [PDF](EXHIBIT-TRIAL-DAY-7-ADMISSION.pdf) |
-| Trial Day 7 Exhibits | Exhibits entered/referenced — Trial Day 7 | April 16, 2025 | [PDF](EXHIBIT-Trial-Day7-April16-2025.pdf) |
-| Trial Day 8 Exhibits | Exhibits entered/referenced — Trial Day 8 | April 17, 2025 | [PDF](EXHIBIT-Trial-Day8-April17-2025.pdf) |
-| Trial Day 10 Exhibits | Exhibits entered/referenced — Trial Day 10 | April 22, 2025 | [PDF](EXHIBIT-Trial-Day10-April22-2025.pdf) |
-| Trial Day 11 Exhibits | Exhibits entered/referenced — Trial Day 11 (verdict day) | April 23, 2025 | [PDF](EXHIBIT-Trial-Day11-April23-2025.pdf) |
+| Trial Day 7 Exhibits | Exhibits entered/referenced - Trial Day 7 | April 16, 2025 | [PDF](EXHIBIT-Trial-Day7-April16-2025.pdf) |
+| Trial Day 8 Exhibits | Exhibits entered/referenced - Trial Day 8 | April 17, 2025 | [PDF](EXHIBIT-Trial-Day8-April17-2025.pdf) |
+| Trial Day 10 Exhibits | Exhibits entered/referenced - Trial Day 10 | April 22, 2025 | [PDF](EXHIBIT-Trial-Day10-April22-2025.pdf) |
+| Trial Day 11 Exhibits | Exhibits entered/referenced - Trial Day 11 (verdict day) | April 23, 2025 | [PDF](EXHIBIT-Trial-Day11-April23-2025.pdf) |
 | Hearing Exhibits Feb 18 | Exhibits submitted at February 18, 2025 hearing | February 18, 2025 | [PDF](EXHIBIT-Hearing-Feb18-2025.pdf) |
 | MIL 6 / 17 rulings (hearing excerpts) | Transcript excerpts: court and counsel re 911, body-worn camera, CAD, defense MIL 17 sequence; Jan. 27 and Feb. 18, 2025 | January / February 2025 | [PDF](EXHIBIT-Order-In-Limine-MIL-6-17-Ruling-Jan-Feb-2025.pdf) |
 

@@ -95,19 +95,22 @@ The following items appear in multiple proceedings:
 
 | Item | Typical citation location |
 |------|---------------------------|
-| Abdelhalim 911 | [evidence.md](evidence.md); trial transcripts |
-| Passerby 911 | [evidence.md](evidence.md) |
-| Body camera / YouTube mirrors | [evidence.md](evidence.md), [evidence.html](evidence.html) |
-| CSAA investigation report exhibit | [04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf](04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf) |
-| Compex subpoena (Feb. 1, 2024) | [04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf](04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf) |
+| Pin register E-01 to E-15 | [evidence.md](evidence.md) |
+| Abdelhalim 911 | [evidence.md](evidence.md); trial transcripts (E-02, E-11) |
+| Passerby 911 | [evidence.md](evidence.md) (E-03) |
+| Body camera / YouTube mirrors | [evidence.md](evidence.md), [evidence.html](evidence.html) (E-04) |
+| February 25, 2021 denial letter | [MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf](MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf) (E-05) |
+| CSAA investigation report exhibit | [04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf](04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf) (E-06) |
+| Compex subpoena (Feb. 1, 2024) | [04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf](04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf) (E-07) |
 | Trial day exhibit PDFs | [04-EXHIBITS/](04-EXHIBITS/INDEX.md) |
+| C26-02801 verified complaint | [04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf) (E-15) |
 | Bar and judicial complaints | [06-EVIDENCE/INDEX.md](06-EVIDENCE/INDEX.md) |
 
-A structured **cause-of-action → evidence** map is in [evidence-tree/INDEX.md](evidence-tree/INDEX.md).
+A structured **cause-of-action to evidence** map is in [evidence-tree/INDEX.md](evidence-tree/INDEX.md).
 
 ---
 
-## 6. Vertical diagram - how the four proceedings interlock
+## 6. Vertical diagram - how the five forums interlock
 
 The diagram is **top-to-bottom** (GitHub-friendly). Each box is a proceeding; arrows show **shared record dependencies** described in the pleadings (not res judicata effects).
 
@@ -125,9 +128,13 @@ flowchart TB
   subgraph uclLayer ["UCL CGC-25-631802"]
     U["FAC denial letter theories plus 2026 motions"]
   end
+  subgraph c26Layer ["Contra Costa C26-02801"]
+    C["Verified common-law deceit complaint"]
+  end
   T --> A
   T --> E
   T --> U
+  T --> C
 ```
 
 ---
@@ -139,7 +146,7 @@ flowchart TB
 3. Walk the **timelines** for each case number in chronological order.
 4. Open the **narrative** chapter for the proceeding you care about; follow pleading-tree links outward.
 5. Use **defendants** pages when you need a person- or entity-centric view tied to sources.
-6. Use **evidence-tree** when you need a claim-element view.
+6. Use **evidence.md** for the numbered pin register, then **evidence-tree** for the claim-element view.
 
 ---
 

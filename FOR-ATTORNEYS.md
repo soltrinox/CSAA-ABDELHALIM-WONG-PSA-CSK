@@ -1,4 +1,4 @@
-> **Posture (July 10, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect post-June 24 posture. **Next calendar event:** September 9, 2026 CMC (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
+> **Posture (September 22, 2026):** Contra Costa **C26-02801** is the filed common-law deceit action (see [04-CASE-C26-02801/INDEX.md](04-CASE-C26-02801/INDEX.md)). 802 remains the San Francisco carrier caption (CCP 391 continued to October 6, 2026, Dept. 302; CMC October 21, 2026, Dept. 610). 801 portions are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)). Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md).
 # For California counsel (intake cover page)
 
 **Not legal advice.** This page stitches short lifts from files already in this repository so you can decide whether to return a call. Every proposition below points to a longer source on this site or in the linked indices.
@@ -9,7 +9,7 @@
 
 ## 1. One-paragraph case summary
 
-From the opening of [`JOURNALIST-NARRATIVE-THREE-CASES.md`](JOURNALIST-NARRATIVE-THREE-CASES.md): the through-line is a four-year insurance dispute that produced a trial record the plaintiff now uses in **three** parallel proceedings (appeal, equity / extrinsic fraud, and carrier-facing fraud and UCL). The plaintiff is self-represented; the defense side includes a major carrier and retained counsel. The full newsroom-style narrative is in that file (Section 1 and 2).
+From the opening of [`JOURNALIST-NARRATIVE-THREE-CASES.md`](JOURNALIST-NARRATIVE-THREE-CASES.md): the through-line is a four-year insurance dispute that produced a trial record the plaintiff now uses in **five** forums (the underlying trial record, the appeal, equity / extrinsic fraud, San Francisco carrier-facing fraud and UCL, and Contra Costa common-law deceit). The plaintiff is self-represented; the defense side includes a major carrier and retained counsel. The live Contra Costa formulation is on [04-CASE-C26-02801/INDEX.md](04-CASE-C26-02801/INDEX.md). The older newsroom narrative remains in that journalist file (Section 1 and 2).
 
 ---
 
@@ -28,7 +28,7 @@ Quantified bands and non-duplication rules are in [`RISK.SURFACE.md`](RISK.SURFA
 
 ## 3. Why the record (not “he said / she said”) does the work
 
-The **five spine facts** are set out in Section 3 of [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md`](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) (911 audio; BWC + CAD; Vehicle Code turning duties; April 16, 2025 Day-7 “provided by Dolan” colloquy; CSAA funding of the defense). The same section explains how each fact loads into multiple causes of action.
+The **five spine facts** are set out in Section 3 of [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md`](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md) (911 audio; BWC + CAD; Vehicle Code turning duties; April 16, 2025 Day-7 "provided by Dolan" colloquy; CSAA funding of the defense). Numbered record pins for the same materials are on [`evidence.md`](evidence.md) (E-01 through E-15). The same section explains how each fact loads into multiple causes of action.
 
 ---
 
@@ -40,17 +40,18 @@ The logic tree in [`CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md`](CROSS-CASE-LO
 
 ## 5. What is on calendar (verify on the portal)
 
-A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](HEARINGS-CALENDAR.md) includes **September 9, 2026** CMC (next); June 24, 2026 631802 consolidated hearing (historical); appeal index pointer.
+A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](HEARINGS-CALENDAR.md) includes the October 6, 2026 CCP 391 date, the October 21, 2026 802 CMC, the September 22, 2026 C26 commentary row, and the historical June 24, 2026 631802 hearing.
 
 ---
 
 ## 6. Which lane fits which firm (non-exclusive)
 
-- **Bad faith / *Prentice* / B&P 17200 / UCL (carrier-only caption):** **CGC-25-631802** index [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md). Long-form customer-status / § 425.17(c) analytical memorandum: [ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md). Immunity-purpose confession narrative: [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md).  
+- **Common-law deceit / *Moradi-Shalal* preservation (Contra Costa, CSAA-only caption):** **C26-02801** index [`04-CASE-C26-02801/INDEX.md`](04-CASE-C26-02801/INDEX.md). Homepage banner: [`README.md`](README.md#banner-argument-c26-02801-and-the-core-wrong).  
+- **Bad faith / *Prentice* / B&P 17200 / UCL (San Francisco carrier-only caption):** **CGC-25-631802** index [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md). Long-form customer-status / section 425.17(c) analytical memorandum: [ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](ANALYSIS/802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md). Immunity-purpose confession narrative: [IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md](IMMUNITY-MAPPING-TO-BAD-FAITH-SIGNAL.md).  
 - **Equity, extrinsic fraud, attorney conduct, B&P 6128(a):** **CGC-25-631801** index [`02-CASE-CGC-25-631801/INDEX.md`](02-CASE-CGC-25-631801/INDEX.md).  
 - **Appellate instructional / evidentiary / Cassim / CCP 614 / Evid. Code 451(a) channels:** **A173827** index [`01-APPEAL/INDEX.md`](01-APPEAL/INDEX.md).  
 - **Post-May-12 801 scaffold (objections, tolling motions, notice of appeal):** [`01-APPEAL/POST-MAY-12-FILING-STACK/README.md`](01-APPEAL/POST-MAY-12-FILING-STACK/README.md) (verify filing status on the portal).  
-- **Full coordination:** all three, plus the underlying trial record under [`05-TRANSCRIPTS/INDEX.md`](05-TRANSCRIPTS/INDEX.md).
+- **Full coordination:** all five forums, plus the underlying trial record under [`05-TRANSCRIPTS/INDEX.md`](05-TRANSCRIPTS/INDEX.md) and the pin register on [`evidence.md`](evidence.md).
 
 ---
 
@@ -61,6 +62,8 @@ A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](H
 | Appeal | [`01-APPEAL/INDEX.md`](01-APPEAL/INDEX.md) |
 | Equity 631801 | [`02-CASE-CGC-25-631801/INDEX.md`](02-CASE-CGC-25-631801/INDEX.md) |
 | UCL 631802 | [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md) |
+| Contra Costa deceit C26-02801 | [`04-CASE-C26-02801/INDEX.md`](04-CASE-C26-02801/INDEX.md) |
+| Evidence pins | [`evidence.md`](evidence.md), [`evidence-tree/INDEX.md`](evidence-tree/INDEX.md) |
 | Cross-case strategy | [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md`](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md), [`CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md`](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) |
 | Defendants map | [`defendants/INDEX.md`](defendants/INDEX.md) |
 
@@ -89,7 +92,7 @@ Inquiries from **licensed California attorneys** are welcome. This page is **not
 | Field | Value |
 |-------|-------|
 | Created | 2026-07-10 |
-| Last updated | 2026-07-10 |
+| Last updated | 2026-09-22 |
 | Last author | soltrinox |
 | Version | `216d319` (rev 7) |
 | Repository | GITHUB-PAGE |

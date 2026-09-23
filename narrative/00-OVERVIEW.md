@@ -1,19 +1,21 @@
-# Narrative hub — how to read the four proceedings
+# Narrative hub - how to read the five forums
 
 This folder contains **long-form, filing-grounded narratives** for each case number. They are written for a **forensic reader**: someone who wants dates, PDF links, and transcript entry points without editorial adjectives.
 
-## What “narrative” means here
+## What "narrative" means here
 
-Each chapter (`01`–`04`) follows the same template:
+Each chapter (`01` to `04`) follows the same template:
 
-1. **Forum and caption** — court, parties, case number.
-2. **Chronological spine** — what happened first on the calendar, then next, with hyperlinks.
-3. **Pleading tree** — earliest → latest PDF in this repository for that case, with one neutral sentence each for **why defense filed** (if defense paper), **why plaintiff filed** (if plaintiff paper), and **what record source** supports or tests the claim.
-4. **Plaintiff’s filed position** — bullet list of arguments **explicitly made** in plaintiff’s memoranda, each with a PDF link. This section is **not** a statement of objective truth; it is a map to plaintiff’s papers.
-5. **Defense’s filed position (where indexed)** — same discipline for defense PDFs that exist in the tree.
-6. **Evidence appendix** — tables linking elements to exhibits and transcripts.
+1. **Forum and caption** - court, parties, case number.
+2. **Chronological spine** - what happened first on the calendar, then next, with hyperlinks.
+3. **Pleading tree** - earliest to latest PDF in this repository for that case, with one neutral sentence each for **why defense filed** (if defense paper), **why plaintiff filed** (if plaintiff paper), and **what record source** supports or tests the claim.
+4. **Plaintiff's filed position** - bullet list of arguments **explicitly made** in plaintiff's memoranda, each with a PDF link. This section is **not** a statement of objective truth; it is a map to plaintiff's papers.
+5. **Defense's filed position (where indexed)** - same discipline for defense PDFs that exist in the tree.
+6. **Evidence appendix** - tables linking elements to exhibits and transcripts.
 
-## The four doors
+The Contra Costa chapter is the filed-and-sent page at [../04-CASE-C26-02801/INDEX.md](../04-CASE-C26-02801/INDEX.md). Numbered media and transcript pins are on [../evidence.md](../evidence.md).
+
+## The five doors
 
 | Door | File | One-sentence description |
 |------|------|---------------------------|
@@ -21,6 +23,7 @@ Each chapter (`01`–`04`) follows the same template:
 | Appeal | [02-APPEAL-A173827.md](02-APPEAL-A173827.md) | Opening brief, augmentation, exhibits. |
 | Equity | [03-EQUITY-CGC-25-631801.md](03-EQUITY-CGC-25-631801.md) | SAC, fraud memoranda, related-case notices. |
 | UCL / denial letter | [04-UCL-CGC-25-631802.md](04-UCL-CGC-25-631802.md) | FAC, April 2026 motions, consolidated oppositions. |
+| Contra Costa deceit | [../04-CASE-C26-02801/INDEX.md](../04-CASE-C26-02801/INDEX.md) | Filed C26-02801 complaint and *Moradi-Shalal* preservation clause. |
 
 ## Cross-cutting resources
 
@@ -28,19 +31,21 @@ Each chapter (`01`–`04`) follows the same template:
 |------|------|
 | Single-page backbone | [../SPINE.md](../SPINE.md) |
 | Homepage story | [../README.md](../README.md) |
+| C26 banner | [../README.md](../README.md#banner-argument-c26-02801-and-the-core-wrong) |
 | Defendant-centric pages | [../defendants/INDEX.md](../defendants/INDEX.md) |
 | Vertical timelines | [../timelines/trial-CGC-21-594102.md](../timelines/trial-CGC-21-594102.md) |
-| COA → evidence tree | [../evidence-tree/INDEX.md](../evidence-tree/INDEX.md) |
+| Pin register | [../evidence.md](../evidence.md) |
+| COA to evidence tree | [../evidence-tree/INDEX.md](../evidence-tree/INDEX.md) |
 | Every Markdown file | [../BOOK-OUTLINE.md](../BOOK-OUTLINE.md) |
 | Legacy tabular index | [../README.LEGACY.md](../README.LEGACY.md) |
 
 ## Tone rule
 
-If a sentence cannot end with a working link to a **PDF** in this folder, it probably belongs in the [NOVEL/](../NOVEL/README.md) tree instead of here. Literary material is welcome reading but is **not** a substitute for the reporter’s transcript PDFs.
+If a sentence cannot end with a working link to a **PDF** in this folder, it probably belongs in the [NOVEL/](../NOVEL/README.md) tree instead of here. Literary material is welcome reading but is **not** a substitute for the reporter's transcript PDFs.
 
 ## Disclaimer
 
-Transcript quotations in narratives use the **repository’s PDF names**; line numbers inside those PDFs are the authoritative pagination for any filing that cites them.
+Transcript quotations in narratives use the **repository's PDF names**; line numbers inside those PDFs are the authoritative pagination for any filing that cites them.
 
 ---
 
@@ -49,7 +54,7 @@ Transcript quotations in narratives use the **repository’s PDF names**; line n
 | Field | Value |
 |-------|-------|
 | Created | 2026-07-10 |
-| Last updated | 2026-04-19 |
+| Last updated | 2026-09-22 |
 | Last author | soltrinox |
 | Version | `0ce2e6d` (rev 1) |
 | Repository | GITHUB-PAGE |

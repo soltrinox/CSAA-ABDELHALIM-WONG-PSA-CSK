@@ -2,7 +2,7 @@
 
 **One-file PDF:** [CASE-DOSSIER.pdf](CASE-DOSSIER.pdf) (export of this page; for counsel pickup).
 
-> **Posture (May 12, 2026):** 802 (CGC-25-631802) is the live trial-court front (June 24, 2026 split-calendar hearing — see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)); 801 (CGC-25-631801) is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); A173827 is in active appellate briefing.
+> **Posture (September 22, 2026):** Contra Costa **C26-02801** is the filed common-law deceit action ([04-CASE-C26-02801/INDEX.md](04-CASE-C26-02801/INDEX.md)). 802 (CGC-25-631802) remains the San Francisco carrier caption (CCP 391 continued to October 6, 2026; CMC October 21, 2026; see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)). 801 (CGC-25-631801) is in appellate-preservation posture (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)). A173827 is in active appellate briefing.
 
 **Not legal advice.** This page is a **table of contents** to material already on this site. Open the links; do not treat this page as a substitute for the primary PDFs.
 
@@ -10,7 +10,7 @@
 
 ## 1. Factual spine (five anchors)
 
-Reproduced in full prose in Section 3 of [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md`](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md): 911 audio; BWC + CAD; Vehicle Code turning-duty statutes; **April 16, 2025** Day-7 “provided by Dolan” colloquy; and CSAA’s funding and direction of the defense.
+Reproduced in full prose in Section 3 of [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md`](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md): 911 audio; BWC + CAD; Vehicle Code turning-duty statutes; **April 16, 2025** Day-7 "provided by Dolan" colloquy; and CSAA's funding and direction of the defense. Numbered pins: [`evidence.md`](evidence.md) (E-01 through E-15).
 
 ---
 
@@ -23,26 +23,28 @@ Reproduced in full prose in Section 3 of [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND
 
 ## 3. Cross-forum reading method
 
-From the homepage: keep **appeal**, **631801 equity**, **631802 UCL**, and **594102 trial** materials **separate**; verify quoted lines in **reporter PDFs**; verify insurer documents in **631802** exhibits. See the “**Cross-forum reading method**” paragraph in [`README.md`](README.md) (academic section, immediately after the four-forum summary).
+From the homepage: keep **appeal**, **631801 equity**, **631802 UCL**, **594102 trial**, and **C26-02801** materials **separate**; verify quoted lines in **reporter PDFs**; verify insurer documents in **631802** and **C26** exhibits. See the homepage banner at [`README.md`](README.md#banner-argument-c26-02801-and-the-core-wrong).
 
 ---
 
 ## 4. Element → source (pleaded / argued)
 
-The consolidated **element map** (negligence, appeal clusters, 631801, 631802, audio) is maintained at [`evidence-tree/INDEX.md`](evidence-tree/INDEX.md).  
+The consolidated **element map** (negligence, appeal clusters, 631801, 631802, C26-02801, audio) is maintained at [`evidence-tree/INDEX.md`](evidence-tree/INDEX.md).  
+
 For verbatim cross-walks and court-reliance import, use [`08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md`](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) and the integrated discrepancy file [`08-LEGAL-ANALYSIS/DISCREPANCY-INTEGRATED-ANALYSIS.md`](08-LEGAL-ANALYSIS/DISCREPANCY-INTEGRATED-ANALYSIS.md).
 
 ---
 
-## 5. Four-proceeding map (same figure as homepage)
+## 5. Five-forum map
 
 ```mermaid
 flowchart TB
   subgraph trial ["CGC-21-594102 trial"]
     TR["Reporter plus clerk PDFs"]
   end
-  subgraph live ["Live trial-court front"]
-    UC["UCL 631802 (June 24, 2026)"]
+  subgraph live ["Live trial-court fronts"]
+    UC["UCL 631802"]
+    CC["C26-02801 common-law deceit"]
   end
   subgraph appellate ["Appellate lane"]
     AP["Appeal A173827 briefs"]
@@ -51,14 +53,17 @@ flowchart TB
   TR --> AP
   TR --> EQ
   TR --> UC
+  TR --> CC
   EQ -.-> AP
 ```
 
 ---
 
-## 6. What to verify first (primary PDFs, 802 live front first)
+## 6. What to verify first (primary PDFs)
 
-**Active motion practice (June 24, 2026 split calendar):** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) — all pending 802 motions, Dept. 302.
+**Contra Costa filed deceit action:** [04-CASE-C26-02801/INDEX.md](04-CASE-C26-02801/INDEX.md) and [VERIFIED-COMPLAINT-C26-02801.pdf](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf).
+
+**San Francisco 802 calendar:** [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md); next dates on [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md).
 
 **Appellate-preservation lane (post-May-12 801 materials):** [01-APPEAL/EQUITY-PRESERVATION-LANE/README.md](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 
@@ -69,7 +74,7 @@ flowchart TB
 | Feb. 18, 2025 hearing register | [`05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf`](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf) (verify cite) |
 | MIL / instruction context | Use [`05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf`](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf) and [`01-APPEAL/01-Appellants-Opening-Brief.pdf`](01-APPEAL/01-Appellants-Opening-Brief.pdf) |
 
-Audio and body-cam entry points: [`evidence.md`](evidence.md).
+Audio, body-cam, and pin register: [`evidence.md`](evidence.md).
 
 ---
 
@@ -80,7 +85,7 @@ Audio and body-cam entry points: [`evidence.md`](evidence.md).
 | Field | Value |
 |-------|-------|
 | Created | 2026-07-10 |
-| Last updated | 2026-06-11 |
+| Last updated | 2026-09-22 |
 | Last author | soltrinox |
 | Version | `d456321` (rev 5) |
 | Repository | GITHUB-PAGE |

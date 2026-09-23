@@ -1,4 +1,4 @@
-# Rosario v. Abdelhalim et al. — Open Case Record
+# Rosario v. Abdelhalim et al. - Open Case Record
 
 **Plaintiff:** Franciscus Dylan Rosario
 **Court:** Superior Court of California, County of San Francisco
@@ -6,10 +6,10 @@
 **Appellate Case:** A173827, First Appellate District, Division Three
 
 > This repository is an open public record of the litigation filed by Franciscus Dylan Rosario
-> following an adverse 9-3 verdict in a pedestrian-vehicle collision trial, and the three-front
-> post-trial proceedings constructed thereafter. All documents are court filings and public record.
+> following an adverse 9-3 verdict in a pedestrian-vehicle collision trial, and the later
+> proceedings constructed from that record. All documents are court filings and public record.
 
-**Latest (May 2026):** **CGC-25-631801:** **[May 12 hearing DIGITAL-FILES archive](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md)** mirrors all PDFs from the opposition package folders (POS lanes; consolidated operative opposition; indexed plus combined exhibits volumes; evidentiary objections; § 425.17 notice; Insurance Code supplemental RJN; motion to strike reply declaration; deferred tentative-ruling notices). **CGC-25-631802:** prior April 2026 mirrors remain as before: Anti-SLAPP clerk PDFs; leave-to-amend / proposed SAC materials; the **[801-draft consolidated opposition build](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)**; Anti-SLAPP rebuttal hub [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
+**Latest (September 22, 2026):** **C26-02801:** filed Contra Costa common-law deceit action. Read the [core-wrong page](04-CASE-C26-02801/INDEX.md), the [homepage banner](README.md#banner-argument-c26-02801-and-the-core-wrong), and the [evidence pin register](evidence.md). **CGC-25-631801:** **[May 12 hearing DIGITAL-FILES archive](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md)** mirrors the opposition package folders. **CGC-25-631802:** April 2026 mirrors remain: Anti-SLAPP clerk PDFs; leave-to-amend / proposed SAC materials; the **[801-draft consolidated opposition build](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)**; Anti-SLAPP rebuttal hub [08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md). Court lookup: [SF Superior case information](https://sf.courts.ca.gov/online-services/case-information).
 
 ---
 
@@ -22,13 +22,14 @@ obscured, and made false representations to the Court about material evidence, i
 a 911 call recording in which Defendant Abdelhalim stated "I barely hit him with anything,"
 body-worn camera footage, and CAD dispatch logs.
 
-Following the verdict, Plaintiff filed three independent proceedings:
+Following the verdict, Plaintiff filed four independent proceedings:
 
 | Proceeding | Case No. | Forum | Theory |
 |---|---|---|---|
 | **Appeal** | A173827 | California Court of Appeal, 1st Dist., Div. 3 | Instructional error, evidentiary error, juror misconduct, cumulative/structural error |
 | **Equity Action** | CGC-25-631801 | SF Superior Court | Independent action to set aside judgment for extrinsic fraud on the court |
 | **Insurance Fraud / UCL** | CGC-25-631802 | SF Superior Court | CSAA's pre-litigation false denial letter; bad faith; Unfair Competition Law |
+| **Common-law deceit** | C26-02801 | Contra Costa Superior Court | Independent Civil Code 1709 / 1710(1) deceit about a completed investigation; *Moradi-Shalal* preservation clause. [Core-wrong page](04-CASE-C26-02801/INDEX.md) |
 
 ---
 
@@ -80,7 +81,7 @@ Following the verdict, Plaintiff filed three independent proceedings:
 
 ---
 
-### 2. Case CGC-25-631801 — Equity Action (Extrinsic Fraud)
+### 2. Case CGC-25-631801 - Equity Action (Extrinsic Fraud)
 
 [View Case 631801 Documents](02-CASE-CGC-25-631801/INDEX.md)
 
@@ -88,20 +89,20 @@ Following the verdict, Plaintiff filed three independent proceedings:
 |---|---|---|
 | 1 | Second Amended Complaint | [PDF](02-CASE-CGC-25-631801/01-Second-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](02-CASE-CGC-25-631801/02-Notice-of-Related-Cases.pdf) |
-| 3 | Memorandum — Fraud on the Court | [PDF](02-CASE-CGC-25-631801/03-Memorandum-Fraud-on-Court.pdf) |
-| 4 | Demand — Judicial Summary of Facts | [PDF](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 3 | Memorandum - Fraud on the Court | [PDF](02-CASE-CGC-25-631801/03-Memorandum-Fraud-on-Court.pdf) |
+| 4 | Demand - Judicial Summary of Facts | [PDF](02-CASE-CGC-25-631801/05-Demand-Judicial-Summary-of-Facts.pdf) |
 | 5 | Requests for Admission | [PDF](02-CASE-CGC-25-631801/06-Requests-for-Admission.pdf) |
-| 6 | Ex Parte — Document Preservation | [PDF](02-CASE-CGC-25-631801/07-Ex-Parte-Document-Preservation.pdf) |
+| 6 | Ex Parte - Document Preservation | [PDF](02-CASE-CGC-25-631801/07-Ex-Parte-Document-Preservation.pdf) |
 | 7 | Request for Judicial Notice | [PDF](02-CASE-CGC-25-631801/08-Request-for-Judicial-Notice.pdf) |
-| 8 | Exhibits — Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
-| 9 | Exhibits — Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
-| 10 | Memorandum — Navaratnasingham Admission (Fatal Proof) | [PDF](02-CASE-CGC-25-631801/11-Motion-Extrinsic-Fraud-Navaratnasingham-Admission.pdf) |
+| 8 | Exhibits - Court Filing Set | [PDF](02-CASE-CGC-25-631801/09-Exhibits-631801-Court.pdf) |
+| 9 | Exhibits - Memorandum and Supplemental | [PDF](02-CASE-CGC-25-631801/10-Exhibits-Memorandum-Supplemental.pdf) |
+| 10 | Memorandum - Navaratnasingham Admission (Fatal Proof) | [PDF](02-CASE-CGC-25-631801/11-Motion-Extrinsic-Fraud-Navaratnasingham-Admission.pdf) |
 
 **Motion practice (631801, indexed with more detail):** **May 7 to May 12, 2026** Anti-SLAPP opposition PDF mirror (lanes and full titles): [hearing-package-may-12-2026/README.md](02-CASE-CGC-25-631801/hearing-package-may-12-2026/README.md).
 
 ---
 
-### 3. Case CGC-25-631802 — Insurance Fraud / UCL Action
+### 3. Case CGC-25-631802 - Insurance Fraud / UCL Action
 
 [View Case 631802 Documents](03-CASE-CGC-25-631802/INDEX.md)
 
@@ -109,17 +110,30 @@ Following the verdict, Plaintiff filed three independent proceedings:
 |---|---|---|
 | 1 | First Amended Complaint | [PDF](03-CASE-CGC-25-631802/01-First-Amended-Complaint.pdf) |
 | 2 | Notice of Related Cases | [PDF](03-CASE-CGC-25-631802/02-Notice-of-Related-Cases.pdf) |
-| 3 | Memorandum — Denial Letter Fraud | [PDF](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
-| 4 | Demand — Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
+| 3 | Memorandum - Denial Letter Fraud | [PDF](03-CASE-CGC-25-631802/03-Memorandum-Denial-Letter-Fraud.pdf) |
+| 4 | Demand - Judicial Summary of Facts | [PDF](03-CASE-CGC-25-631802/05-Demand-Judicial-Summary-of-Facts.pdf) |
 | 5 | Requests for Admission | [PDF](03-CASE-CGC-25-631802/06-Requests-for-Admission.pdf) |
-| 6 | Ex Parte — Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
-| 7 | Exhibits — Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
+| 6 | Ex Parte - Document Preservation | [PDF](03-CASE-CGC-25-631802/07-Ex-Parte-Document-Preservation.pdf) |
+| 7 | Exhibits - Memorandum and Supplemental | [PDF](03-CASE-CGC-25-631802/08-Exhibits-Memorandum-Supplemental.pdf) |
 
 **April 2026 motions (631802, same index file):** Defense Anti-SLAPP clerk PDFs; Plaintiff leave / SAC packet(s); **[801-draft consolidated opposition PDFs](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md)**; Plaintiff opposition builds (803 series and consolidated volumes). See [631802 case index](03-CASE-CGC-25-631802/INDEX.md).
 
 ---
 
-### 4. Exhibits
+### 4. Case C26-02801 - Common-law deceit (Contra Costa)
+
+[View C26-02801 core-wrong page](04-CASE-C26-02801/INDEX.md)
+
+| # | Document | PDF / page |
+|---|---|---|
+| 1 | Verified Complaint for Common-Law Fraudulent Misrepresentation | [PDF](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf) |
+| 2 | Sent September 22, 2026 personal dialogue | [page](correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
+| 3 | Homepage banner argument | [page](README.md#banner-argument-c26-02801-and-the-core-wrong) |
+| 4 | Evidence pin register | [evidence.md](evidence.md) |
+
+---
+
+### 5. Exhibits
 
 [View Full Exhibits Index](04-EXHIBITS/INDEX.md)
 
@@ -127,11 +141,11 @@ Following the verdict, Plaintiff filed three independent proceedings:
 |---|---|---|
 | EXHIBIT-001 | CSAA Investigation Report | [PDF](04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf) |
 | EXHIBIT-006 | Plaintiff Deposition | [PDF](04-EXHIBITS/EXHIBIT-006-Plaintiff-Deposition.pdf) |
-| Trial Day 7 | Trial Exhibits — April 16, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day7-April16-2025.pdf) |
-| Trial Day 8 | Trial Exhibits — April 17, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day8-April17-2025.pdf) |
-| Trial Day 10 | Trial Exhibits — April 22, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day10-April22-2025.pdf) |
-| Trial Day 11 | Trial Exhibits — April 23, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day11-April23-2025.pdf) |
-| Hearing Feb 18 | Hearing Exhibits — February 18, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Hearing-Feb18-2025.pdf) |
+| Trial Day 7 | Trial Exhibits - April 16, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day7-April16-2025.pdf) |
+| Trial Day 8 | Trial Exhibits - April 17, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day8-April17-2025.pdf) |
+| Trial Day 10 | Trial Exhibits - April 22, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day10-April22-2025.pdf) |
+| Trial Day 11 | Trial Exhibits - April 23, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Trial-Day11-April23-2025.pdf) |
+| Hearing Feb 18 | Hearing Exhibits - February 18, 2025 | [PDF](04-EXHIBITS/EXHIBIT-Hearing-Feb18-2025.pdf) |
 | 07798014 | Record Exhibits Vol. | [PDF](04-EXHIBITS/07798014-Record-Exhibits.pdf) |
 | 09506069 | Record Exhibits Vol. | [PDF](04-EXHIBITS/09506069-Record-Exhibits.pdf) |
 | 09573595 | Record Exhibits Vol. | [PDF](04-EXHIBITS/09573595-Record-Exhibits.pdf) |
@@ -141,7 +155,7 @@ Following the verdict, Plaintiff filed three independent proceedings:
 
 ---
 
-### 5. Transcripts
+### 6. Transcripts
 
 [View Full Transcripts Index](05-TRANSCRIPTS/INDEX.md)
 
@@ -149,10 +163,10 @@ Following the verdict, Plaintiff filed three independent proceedings:
 
 | Document | PDF |
 |---|---|
-| Clerk's Transcript — Full Record (CGC-21-594102, 1,900 pages) | [PDF](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf) |
+| Clerk's Transcript - Full Record (CGC-21-594102, 1,900 pages) | [PDF](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf) |
 | Plaintiff's Proposed Jury Instructions (09580112) | [PDF](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/09580112-Plaintiff-Proposed-Jury-Instructions.pdf) |
 
-#### Reporter Transcripts — Trial Days
+#### Reporter Transcripts - Trial Days
 
 | Day | Date | PDF |
 |---|---|---|
@@ -168,36 +182,38 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | Franciscus Dylan Rosario (Plaintiff) | August 18, 2022 | [PDF](05-TRANSCRIPTS/DEPOSITIONS/01-Franciscus-Rosario-Deposition-2022-08-18.pdf) |
 | Victoria Rosario | May 3, 2024 | [PDF](05-TRANSCRIPTS/DEPOSITIONS/02-Victoria-Rosario-Deposition-2024-05-03.pdf) |
 | Officer David Fernandez | March 10, 2023 | [PDF](05-TRANSCRIPTS/DEPOSITIONS/03-Officer-David-Fernandez-Deposition-2023-03-10.pdf) |
-| Nicholas Raffin (PMK — CSAA) | March 10, 2023 | [PDF](05-TRANSCRIPTS/DEPOSITIONS/04-Nicholas-Raffin-PMK-Deposition-2023-03-10.pdf) |
+| Nicholas Raffin (PMK - CSAA) | March 10, 2023 | [PDF](05-TRANSCRIPTS/DEPOSITIONS/04-Nicholas-Raffin-PMK-Deposition-2023-03-10.pdf) |
 | Subhi Abdelhalim (Defendant) | September 30, 2022 | [PDF](05-TRANSCRIPTS/DEPOSITIONS/05-Subhi-Abdelhalim-Deposition-2022-09-30.pdf) |
 
 #### Hearings
 
 | Document | PDF |
 |---|---|
-| All Hearing Transcripts — Rosario v. Abdelhalim (AAA) | [PDF](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf) |
+| All Hearing Transcripts - Rosario v. Abdelhalim (AAA) | [PDF](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf) |
 | Plaintiff's Exhibit List | [PDF](05-TRANSCRIPTS/HEARINGS/Plaintiff-Exhibit-List.pdf) |
 | AAA Insurance Information | [PDF](05-TRANSCRIPTS/HEARINGS/AAA-Insurance-Info.pdf) |
 
 ---
 
-### 6. Evidence
+### 7. Evidence
+
+Media, 911 audio, body-worn camera, and numbered pins: [evidence.md](evidence.md) (E-01 through E-15). Claim-family map: [evidence-tree/INDEX.md](evidence-tree/INDEX.md). Regulatory PDFs: [06-EVIDENCE/INDEX.md](06-EVIDENCE/INDEX.md).
 
 [View Full Evidence Index](06-EVIDENCE/INDEX.md)
 
 | Document | PDF |
 |---|---|
 | CSAA Investigation Report (Exhibit 001) | [PDF](06-EVIDENCE/EXHIBIT-001-CSAA-Investigation-Report.pdf) |
-| Judicial Complaint — Judge Garrett Wong (2026) | [PDF](06-EVIDENCE/Judicial-Complaint-Judge-Garrett-Wong-2026.pdf) |
-| Bar Complaint — Alberto Reyna | [PDF](06-EVIDENCE/Bar-Complaint-Alberto-Reyna.pdf) |
-| Bar Complaint — Carbone, Smith & Koyama | [PDF](06-EVIDENCE/Bar-Complaint-Carbone-Smith-Koyama.pdf) |
-| Bar Complaint — Michael R. Chambers | [PDF](06-EVIDENCE/Bar-Complaint-Michael-R-Chambers.pdf) |
-| Bar Complaint — Phillips, Spallas & Angstadt LLP | [PDF](06-EVIDENCE/Bar-Complaint-Phillips-Spallas-Angstadt.pdf) |
-| Bar Complaint — Priya D. Navaratnasingham | [PDF](06-EVIDENCE/Bar-Complaint-Priya-Navaratnasingham.pdf) |
+| Judicial Complaint - Judge Garrett Wong (2026) | [PDF](06-EVIDENCE/Judicial-Complaint-Judge-Garrett-Wong-2026.pdf) |
+| Bar Complaint - Alberto Reyna | [PDF](06-EVIDENCE/Bar-Complaint-Alberto-Reyna.pdf) |
+| Bar Complaint - Carbone, Smith & Koyama | [PDF](06-EVIDENCE/Bar-Complaint-Carbone-Smith-Koyama.pdf) |
+| Bar Complaint - Michael R. Chambers | [PDF](06-EVIDENCE/Bar-Complaint-Michael-R-Chambers.pdf) |
+| Bar Complaint - Phillips, Spallas & Angstadt LLP | [PDF](06-EVIDENCE/Bar-Complaint-Phillips-Spallas-Angstadt.pdf) |
+| Bar Complaint - Priya D. Navaratnasingham | [PDF](06-EVIDENCE/Bar-Complaint-Priya-Navaratnasingham.pdf) |
 
 ---
 
-### 7. Support Filings
+### 8. Support Filings
 
 [View Support Filings Index](07-SUPPORT-FILINGS/INDEX.md)
 
@@ -208,8 +224,8 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | Request to Augment Record | [PDF](07-SUPPORT-FILINGS/Request-to-Augment-Record.pdf) |
 | Response to Court Letter | [PDF](07-SUPPORT-FILINGS/Response-to-Court-Letter.pdf) |
 | Notice of Related Cases (Joint) | [PDF](07-SUPPORT-FILINGS/Notice-of-Related-Cases-Joint.pdf) |
-| Consent to Electronic Service — 631801 (Signed) | [PDF](07-SUPPORT-FILINGS/Consent-Electronic-Service-631801-Signed.pdf) |
-| Consent to Electronic Service — 631802 (Signed) | [PDF](07-SUPPORT-FILINGS/Consent-Electronic-Service-631802-Signed.pdf) |
+| Consent to Electronic Service - 631801 (Signed) | [PDF](07-SUPPORT-FILINGS/Consent-Electronic-Service-631801-Signed.pdf) |
+| Consent to Electronic Service - 631802 (Signed) | [PDF](07-SUPPORT-FILINGS/Consent-Electronic-Service-631802-Signed.pdf) |
 | Risk Surface Analysis | [PDF](07-SUPPORT-FILINGS/Risk-Surface-Analysis.pdf) |
 | Strategy Analysis | [PDF](07-SUPPORT-FILINGS/Strategy-Analysis.pdf) |
 | Model Strategy | [PDF](07-SUPPORT-FILINGS/Model-Strategy.pdf) |
@@ -246,18 +262,19 @@ representations to deny continuances (Hearing Tr. p. 181) and grant exclusionary
 The 911 call recording contained Defendant Abdelhalim's own words: *"I barely hit him with anything."*
 Plaintiff's former counsel had obtained this recording within three months of the collision through
 a routine public records request. CSAA issued a denial letter within 21 days of the collision
-stating it had "concluded its investigation" — before obtaining this or any other basic
+stating it had "concluded its investigation" - before obtaining this or any other basic
 investigative materials.
 
-### The Three-Front Architecture
+### Later proceedings
 
-The post-trial litigation was designed so that:
+The later cases use the same trial record in separate captions:
 
-- A successful defense posture in one proceeding generates a concession or adverse inference
-  in the others
-- Every element of Plaintiff's proof is drawn from the defense's own filings, transcripts,
-  and sworn testimony
-- Each proceeding has its own decision-maker, standard of review, and independent remedy lane
+- **A173827:** instructional, evidentiary, and juror-misconduct issues on the certified record
+- **CGC-25-631801:** independent equity action for extrinsic fraud on the court
+- **CGC-25-631802:** San Francisco carrier-facing denial-letter and UCL claims
+- **C26-02801:** Contra Costa common-law deceit about the completed-investigation representation ([core-wrong page](04-CASE-C26-02801/INDEX.md))
+
+Every element of the C26 formulation is drawn from the filed complaint and from papers a court has already seen. Publishing this page is not service.
 
 ### Key Legal Issues on Appeal (A173827)
 
@@ -279,7 +296,8 @@ The post-trial litigation was designed so that:
 | [Court Reliance on False Representations](08-LEGAL-ANALYSIS/COURT-RELIANCE-FRAUD-ON-COURT.md) | How the court relied on defense counsel's false statements to make procedural and evidentiary rulings; five reliance instances; equity framework; damages |
 | [Fatal Proof: The Navaratnasingham "Dolan" Admission](08-LEGAL-ANALYSIS/FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) | Every contradicting statement cataloged; why the Trial Day 7 admission destroys the defense position |
 | [Journal Article: Three-Front Litigation Architecture](08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) | Technical analysis of the multi-front strategic design; *Advanced Civil Litigation Strategy Review* (2026) |
-| [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) | CGC-25-631802: authority-by-authority response to CSAA’s Anti-SLAPP memorandum; Tyler O’Connell declaration page |
+| [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) | CGC-25-631802: authority-by-authority response to CSAA's Anti-SLAPP memorandum; Tyler O'Connell declaration page |
+| [C26-02801 core-wrong page](04-CASE-C26-02801/INDEX.md) | Filed common-law deceit count; *Moradi-Shalal* preservation clause; supporting record links |
 
 ---
 
