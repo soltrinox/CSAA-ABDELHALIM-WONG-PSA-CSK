@@ -20,7 +20,7 @@ Folder overview: [README.md](README.md)
 
 ---
 
-## Index (44 events)
+## Index (45 events)
 
 | Date | Subject | Class | Sent status | Canonical path |
 |------|---------|-------|-------------|----------------|
@@ -68,7 +68,8 @@ Folder overview: [README.md](README.md)
 | 2026-09-22 3:58 p.m. | Reply to Department 302 | Personal dialogue | Sent. Rule 3 span redacted | [personal-dialogue/2026-09-22-clerk-reply-objections.md](personal-dialogue/2026-09-22-clerk-reply-objections.md) |
 | 2026-09-22 4:32 p.m. | Public-records commentary | Personal dialogue | Sent | [personal-dialogue/2026-09-22-first-amendment-public-records.md](personal-dialogue/2026-09-22-first-amendment-public-records.md) |
 | 2026-09-22 8:23 p.m. | Contra Costa common-law deceit commentary | Personal dialogue | Sent | [personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md](personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
+| 2026-09-23 10:47 a.m. | Investigative referral: CSAA claim investigation, public records, and evidence not obtained before denial | Personal dialogue | Sent. Blind-copy recipients omitted | [personal-dialogue/2026-09-23-investigative-referral.md](personal-dialogue/2026-09-23-investigative-referral.md) |
 
-**Row count:** 44 events. Defense and court-staff messages from the same days are not rows in this table. They are linked from [COMMENTARY/2026-09-22-defense-outbound/](../COMMENTARY/2026-09-22-defense-outbound/README.md).
+**Row count:** 45 events. Defense and court-staff messages from the same days are not rows in this table. They are linked from [COMMENTARY/2026-09-22-defense-outbound/](../COMMENTARY/2026-09-22-defense-outbound/README.md).
 
 [← Site root](../README.md) · [Hearings calendar](../HEARINGS-CALENDAR.md) · [Legal analysis](../08-LEGAL-ANALYSIS/INDEX.md) · [August 2026 posture](../ANALYSIS/AUG-2026-POSTURE.md)

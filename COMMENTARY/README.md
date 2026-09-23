@@ -9,5 +9,6 @@
 | [VEXATIOUS-EXHIBIT-LEDGER.md](VEXATIOUS-EXHIBIT-LEDGER.md) | Commentary ledger of plaintiff writings the defense lodged as vexatious grounds, linked to published pages. Not a filing. |
 | [csaa-porter-scott-correspondence/](csaa-porter-scott-correspondence/README.md) | Index of CSAA and Porter Scott sent/received correspondence, linked into the existing completeness set |
 | [2026-09-22-defense-outbound/](2026-09-22-defense-outbound/README.md) | September 21-22, 2026 sent commentary and the served CGC-25-631802 papers from that day's mail. Not a filing list. |
+| [September 23, 2026 investigative referral](../correspondence/personal-dialogue/2026-09-23-investigative-referral.md) | Sent commentary inviting independent review of the CSAA denial and the public-safety record. Face-labeled. Not a filing. Blind-copy recipients omitted. |
 
 [Site root](../README.md)
