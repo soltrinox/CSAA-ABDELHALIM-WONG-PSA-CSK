@@ -72,12 +72,29 @@ The verdict therefore does not adjudicate the investigation or the truth of the 
 
 ## Record links
 
+**Filed complaint and sent commentary**
+
 - [Verified Complaint for Common-Law Fraudulent Misrepresentation, C26-02801](VERIFIED-COMPLAINT-C26-02801.pdf).
+- [Sent September 22, 2026, 8:23 p.m. personal dialogue stating this formulation](../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md).
+- [Homepage banner argument](../README.md#banner-argument-c26-02801-and-the-core-wrong).
+
+**The 2021 representation and the claim-file materials**
+
 - [February 25, 2021 CSAA denial letter](../MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf).
 - [CSAA investigation report exhibit](../04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf).
+- [February 1, 2024 Compex subpoena for 911 and body-worn camera materials](../04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf).
+- [Evidence page: 911, body-worn camera, and CAD](../evidence.md).
+
+**Filed defense positions about the same investigation**
+
+- [January 17, 2025 MIL No. 6 declaration](../MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-6_Clerk-pp-149-151.pdf).
+- [January 17, 2025 MIL No. 17 declaration](../MERITS-EXHIBITS/CGC-21-594102-CT1-MIL-No-17_Clerk-pp-238-241.pdf).
 - [April 9, 2026 CSAA anti-SLAPP memorandum extraction](../DEFENSE-FILINGS/CGC-25-631802/2026-04-09__mpa__mpa-anti-slapp-mpas---anti-slapp/extraction.md).
 - [April 22, 2026 section 436 memorandum extraction](../03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/MPA2-CCP436.md).
 - [April 27, 2026 served *Moradi-Shalal* preservation-clause hub](../_shared/moradi-shalal-carveout-apr27/README.md).
+
+**Trial record later used as admissions, not as the C26-02801 wrong**
+
 - [Trial Day 7 reporter's transcript, April 16, 2025](../05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf).
 - [Trial Day 8 reporter's transcript, April 17, 2025](../05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf).
 

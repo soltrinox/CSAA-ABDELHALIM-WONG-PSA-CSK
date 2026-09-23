@@ -25,7 +25,7 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 
 [*Moradi-Shalal v. Fireman's Fund Insurance Companies*](04-CASE-C26-02801/INDEX.md#the-preservation-clause) (1988) 46 Cal.3d 287, 304-305 expressly preserves appropriate traditional common-law actions against insurers, including fraud, while barring an implied private cause of action under section 790.03.
 
-**[Read the full legal argument and supporting record links.](04-CASE-C26-02801/INDEX.md)**
+**[Read the full legal argument and supporting record links.](04-CASE-C26-02801/INDEX.md)** The sent September 22, 2026 email is [here](correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md). The filed complaint PDF is [here](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf).
 
 ---
 

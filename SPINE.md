@@ -1,5 +1,5 @@
 > **Posture (September 22, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect the live trial-court front. **August 26, 2026, Dept. 302:** CCP 391 heard; order DocID `10397483`; continued to **October 6, 2026, 9:00 a.m., Dept. 302** (seq 354). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md)).
-# Legal and factual spine - four proceedings
+# Legal and factual spine - five proceedings
 
 This document is the **logical backbone** of the public record in this folder. It states **what each forum is**, **who appears there**, **what theories the operative papers describe**, and **which primary-source PDFs anchor those descriptions**. It does not predict outcomes.
 
@@ -13,6 +13,7 @@ This document is the **logical backbone** of the public record in this folder. I
 | Appellate review | A173827 | California Court of Appeal, First District, Division Three |
 | Independent equity action | CGC-25-631801 | San Francisco Superior Court |
 | Representational / UCL action | CGC-25-631802 | San Francisco Superior Court |
+| Common-law deceit | C26-02801 | Contra Costa Superior Court |
 
 Long-form narratives (each with pleading trees and record citations) live under [narrative/](narrative/00-OVERVIEW.md). Vertical chronologies are under [timelines/](timelines/trial-CGC-21-594102.md). Defendant-specific fact sheets are under [defendants/](defendants/INDEX.md).
 
@@ -260,6 +261,8 @@ Law-enforcement materials include **police reports**, **supplemental reports** (
 
 The **631802** action isolates a **pre-filing** letter. That pleading choice means certain litigation-privilege defenses are argued inapplicable because the letter predates the complaint in **CGC-21-594102**. The memorandum PDF in **631802** walks through that sequencing. The spine highlights it because readers sometimes merge the **trial** fraud allegations with the **denial-letter** fraud allegations; they are **related chronologically** but **different on paper** as causes of action.
 
+**C26-02801** is the filed Contra Costa common-law deceit complaint. It isolates the same February 25, 2021 letter as an affirmative representation of completed historical investigative acts, preserved under *Moradi-Shalal* at pages 304-305. Public page: [04-CASE-C26-02801/INDEX.md](04-CASE-C26-02801/INDEX.md). Filed complaint: [VERIFIED-COMPLAINT-C26-02801.pdf](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf). Homepage banner: [README.md](README.md#banner-argument-c26-02801-and-the-core-wrong).
+
 ---
 
 ## 22. Parallel reading tracks for external reviewers
@@ -278,6 +281,7 @@ The **631802** action isolates a **pre-filing** letter. That pleading choice mea
 
 | Resource | Link |
 |----------|------|
+| Contra Costa C26-02801 | [04-CASE-C26-02801/INDEX.md](04-CASE-C26-02801/INDEX.md) |
 | Narrative hub | [narrative/00-OVERVIEW.md](narrative/00-OVERVIEW.md) |
 | Book-style file list | [BOOK-OUTLINE.md](BOOK-OUTLINE.md) |
 | Legacy navigation README | [README.LEGACY.md](README.LEGACY.md) |

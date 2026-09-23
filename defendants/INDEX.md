@@ -1,6 +1,6 @@
 # Defendants - record-first index
 
-> **Posture (September 22, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (Aug 26 CCP 391 continued to October 6, 2026, Dept. 302; next CMC October 21, 2026, Dept. 610). All other defendants are **appellate-only** as to CGC-25-631801, which is in appellate-preservation posture (**A177553**). See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
+> **Posture (September 22, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (Aug 26 CCP 391 continued to October 6, 2026, Dept. 302; next CMC October 21, 2026, Dept. 610). CSAA is also the named defendant in filed Contra Costa Case No. **C26-02801**. All other defendants are **appellate-only** as to CGC-25-631801, which is in appellate-preservation posture (**A177553**). See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md) · [C26-02801](../04-CASE-C26-02801/INDEX.md).
 
 Each page lists **primary-source links** (transcripts, pleadings, complaints, regulatory PDFs in this repo). **Allegations** in complaints are labeled as such.
 

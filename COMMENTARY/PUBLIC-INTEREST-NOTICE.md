@@ -18,7 +18,7 @@ On February 25, 2021, CSAA Insurance Exchange sent a denial letter stating that 
 
 The Third Amended Complaint in CGC-25-631802 treats that writing as the representational wrong: pre-litigation claim-handling, not petitioning. Insurance Code section 790.03 and 10 CCR section 2695.7 are pleaded as the standard of care, not as a private cause of action under section 790.03. The same complaint pleads a reasonable-consumer test under Business and Professions Code section 17200. Element citations: [MERITS.md](../MERITS.md).
 
-The verified complaint in Contra Costa Case No. C26-02801 pleads common-law deceit about completed investigative acts, and invokes the preservation of traditional fraud actions in *Moradi-Shalal v. Fireman's Fund Insurance Companies* (1988) 46 Cal.3d 287, 304-305. [C26-02801](../04-CASE-C26-02801/INDEX.md).
+The verified complaint in Contra Costa Case No. C26-02801 pleads common-law deceit about completed investigative acts, and invokes the preservation of traditional fraud actions in *Moradi-Shalal v. Fireman's Fund Insurance Companies* (1988) 46 Cal.3d 287, 304-305. [C26-02801](../04-CASE-C26-02801/INDEX.md). The same formulation was sent to CSAA and its counsel on September 22, 2026: [personal dialogue](../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md). The homepage banner is [here](../README.md#banner-argument-c26-02801-and-the-core-wrong).
 
 Court proceedings are public. Insurance claim-handling is a regulated industry. Both points are already stated on the homepage under [Speech, petition, and why this archive is public](../README.md#speech-petition-and-why-this-archive-is-public).
 
