@@ -1,9 +1,9 @@
 # August 2026 posture (public milestones)
 
-**As of:** September 9, 2026 register harvest
-**Source:** GetROA + Case Info HTML, September 9, 2026, 1:50 pm (801: 232 rows; 802: 358 rows). August 14 File & Serve authorization times remain the filing dates for the notices of appeal. Residual `[VERIFY-HUMAN]`: First District numbers for the August 14 notices (not on this register); official View PDFs for 802 DocIDs `10377129`, `10377130`, `10377162`, `10377163`, `10377164`.
+**As of:** September 22, 2026 (register harvest September 9, 2026; appellate clerk notices September 14 to 15, 2026)
+**Source:** GetROA + Case Info HTML, September 9, 2026, 1:50 pm (801: 232 rows; 802: 358 rows). August 14 File & Serve authorization times remain the filing dates for the notices of appeal. First District numbers: **A177553** (801; clerk notice September 14, 2026) and **A177567** (802; clerk notice September 15, 2026).
 
-Neutral milestone summary. Not legal advice. Publishing this page is not a filing and is not service.
+Neutral milestone summary. Publishing this page is not a filing and is not service.
 
 ---
 
@@ -16,7 +16,7 @@ Clerk images for the August 14 through August 31 appeal-file papers that are on 
 - 802 July 1 order: [10297081](../03-CASE-CGC-25-631802/court-orders/2026-07-01-strike-order-grant/README.md)
 - 802 August 26 access order: [10397483](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/10397483.pdf)
 
-APP-003 (no reporter's transcript) is on each file: 801 Tx `80503647`, DocID `10403685`; 802 Tx `80503745`, DocID `10403681`. September 8, 2026 Department 301 minutes take the 801 fee motion off calendar pursuant to the August 19 notice. August 21, 2026 Department 302 remark takes the 802 fee motion off calendar. First District numbers for the August 14 notices are not on this register.
+APP-003 (no reporter's transcript) is on each file: 801 Tx `80503647`, DocID `10403685`; 802 Tx `80503745`, DocID `10403681`. September 8, 2026 Department 301 minutes take the 801 fee motion off calendar pursuant to the August 19 notice. August 21, 2026 Department 302 remark takes the 802 fee motion off calendar. First District numbers: **A177553** (801; clerk notice September 14, 2026) and **A177567** (802; clerk notice September 15, 2026).
 
 ---
 

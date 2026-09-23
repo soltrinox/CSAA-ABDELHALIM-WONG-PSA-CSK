@@ -12,7 +12,7 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court; Contra Costa Superior Court; California Court of Appeal, First Appellate District
-**Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 (equity, on appeal) · CGC-25-631802 (denial-letter fraud, on appeal) · C26-02801 (common-law deceit)
+**Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 / A177553 (equity, on appeal) · CGC-25-631802 / A177567 (denial-letter fraud, on appeal) · C26-02801 (common-law deceit)
 **Last refresh:** September 22, 2026
 
 ## Contra Costa

@@ -1,6 +1,6 @@
-# Defendants — record-first index
+# Defendants - record-first index
 
-> **Posture (July 10, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (post-June 24; next event September 9, 2026 CMC). All other defendants are **appellate-only** as to CGC-25-631801, which is in appellate-preservation posture. See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
+> **Posture (September 22, 2026):** CSAA Insurance Exchange and Tyler J. O'Connell are **live trial-court parties in CGC-25-631802** (Aug 26 CCP 391 continued to October 6, 2026, Dept. 302; next CMC October 21, 2026, Dept. 610). All other defendants are **appellate-only** as to CGC-25-631801, which is in appellate-preservation posture (**A177553**). See [01-APPEAL/EQUITY-PRESERVATION-LANE/](../01-APPEAL/EQUITY-PRESERVATION-LANE/README.md).
 
 Each page lists **primary-source links** (transcripts, pleadings, complaints, regulatory PDFs in this repo). **Allegations** in complaints are labeled as such.
 
@@ -15,7 +15,7 @@ Each page lists **primary-source links** (transcripts, pleadings, complaints, re
 | Priya D. Navaratnasingham | Appellate-only (801) | [Priya-Navaratnasingham.md](Priya-Navaratnasingham.md) |
 | Alberto Reyna | Appellate-only (801) | [Alberto-Reyna.md](Alberto-Reyna.md) |
 
-*Note: O'Connell is counsel of record / non-party — listed for conduct-based rap sheet.*
+*Note: O'Connell is counsel of record / non-party - listed for conduct-based rap sheet.*
 
 ---
 

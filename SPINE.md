@@ -1,5 +1,5 @@
-> **Posture (July 22, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect the live trial-court front. **Still on calendar:** August 26, 2026 defense access/fee hearing (Dept. 302). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. **Next CMC:** September 9, 2026 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)).
-# Legal and factual spine — four proceedings
+> **Posture (September 22, 2026):** 801 portions of this document are appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions reflect the live trial-court front. **August 26, 2026, Dept. 302:** CCP 391 heard; order DocID `10397483`; continued to **October 6, 2026, 9:00 a.m., Dept. 302** (seq 354). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610 (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md) · [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md)).
+# Legal and factual spine - four proceedings
 
 This document is the **logical backbone** of the public record in this folder. It states **what each forum is**, **who appears there**, **what theories the operative papers describe**, and **which primary-source PDFs anchor those descriptions**. It does not predict outcomes.
 
@@ -18,27 +18,27 @@ Long-form narratives (each with pleading trees and record citations) live under 
 
 ---
 
-## 1. Underlying trial — CGC-21-594102
+## 1. Underlying trial - CGC-21-594102
 
-**Nature of proceeding.** A civil jury trial on liability and damages arising from a pedestrian–vehicle incident on February 4, 2021, at Tehama and 5th Street, San Francisco.
+**Nature of proceeding.** A civil jury trial on liability and damages arising from a pedestrian-vehicle incident on February 4, 2021, at Tehama and 5th Street, San Francisco.
 
-**Operative posture at trial end.** A jury returned a defense verdict reported in this repository as **9–3** (minimum civil majority). The April 23, 2025 reporter transcript volume is indexed with other trial days under [05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/).
+**Operative posture at trial end.** A jury returned a defense verdict reported in this repository as **9-3** (minimum civil majority). The April 23, 2025 reporter transcript volume is indexed with other trial days under [05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/).
 
 **Core primary sources used across all later proceedings.**
 
 - **911 audio and statements attributed to the driver on the call.** The repository hosts listening links and transcript excerpts on [evidence.md](evidence.md) and [evidence.html](evidence.html). Trial authentication is discussed in the Day 8 reporter transcript PDF linked from the trial timeline.
 - **Body-worn camera and related law-enforcement video.** Links appear on the evidence pages; trial-day PDFs are under [04-EXHIBITS/](04-EXHIBITS/INDEX.md).
-- **Reporter’s transcripts — Trial Days 7, 8, 10, 11.** [Day 7 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf), [Day 8 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf), [Day 10 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-10-April-22-2025.pdf), [Day 11 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-11-April-23-2025.pdf).
+- **Reporter’s transcripts - Trial Days 7, 8, 10, 11.** [Day 7 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-07-April-16-2025.pdf), [Day 8 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-08-April-17-2025.pdf), [Day 10 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-10-April-22-2025.pdf), [Day 11 PDF](05-TRANSCRIPTS/REPORTER-TRANSCRIPTS/Trial-Day-11-April-23-2025.pdf).
 - **Hearing transcripts (February 18, 2025 and related).** [All-Hearing-Transcripts PDF](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf).
 - **Clerk’s transcript (full).** [Clerk’s transcript PDF](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf).
 
-**Defendants at trial (as listed on the equity index).** Subhi Abdelhalim; CSAA Insurance Exchange; Phillips, Spallas & Angstadt LLP; Priya D. Navaratnasingham; Alberto Reyna; Michael R. Chambers; Carbone, Smith & Koyama — roles summarized in [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md). Tyler J. O'Connell (CSAA defense counsel, non-party) is also documented for his filing conduct in 631802.
+**Defendants at trial (as listed on the equity index).** Subhi Abdelhalim; CSAA Insurance Exchange; Phillips, Spallas & Angstadt LLP; Priya D. Navaratnasingham; Alberto Reyna; Michael R. Chambers; Carbone, Smith & Koyama - roles summarized in [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md). Tyler J. O'Connell (CSAA defense counsel, non-party) is also documented for his filing conduct in 631802.
 
 **Why this layer matters to the spine.** Later filings treat the trial record as the **shared factual substrate**: what was said under oath, what was offered or excluded, and what the jury was permitted to hear. The appeal briefs catalog preserved error from this record. The equity action alleges extrinsic fraud affecting the fairness of this trial. The UCL action uses a **pre-litigation** insurer letter as a separate timestamped representation.
 
 ---
 
-## 2. Appeal — A173827
+## 2. Appeal - A173827
 
 **Nature of proceeding.** Direct review of orders and judgment in CGC-21-594102 under the standards described in the opening brief.
 
@@ -55,7 +55,7 @@ Long-form narratives (each with pleading trees and record citations) live under 
 
 ---
 
-## 3. Equity action — CGC-25-631801
+## 3. Equity action - CGC-25-631801
 
 **Nature of proceeding.** An **independent action in equity** to set aside the CGC-21-594102 judgment, pled on theories that include extrinsic fraud and fraud on the court. The case index states the **CMC** date and department.
 
@@ -71,7 +71,7 @@ Long-form narratives (each with pleading trees and record citations) live under 
 
 ---
 
-## 4. UCL / denial-letter action — CGC-25-631802
+## 4. UCL / denial-letter action - CGC-25-631802
 
 **Nature of proceeding.** A separate superior court action against **CSAA Insurance Exchange** alleging a **pre-litigation** “concluded investigation” denial letter and related theories under the unfair competition statute and associated doctrines, as summarized in [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md).
 
@@ -106,7 +106,7 @@ A structured **cause-of-action → evidence** map is in [evidence-tree/INDEX.md]
 
 ---
 
-## 6. Vertical diagram — how the four proceedings interlock
+## 6. Vertical diagram - how the four proceedings interlock
 
 The diagram is **top-to-bottom** (GitHub-friendly). Each box is a proceeding; arrows show **shared record dependencies** described in the pleadings (not res judicata effects).
 
@@ -198,9 +198,9 @@ Both post-trial superior court actions include **notice of related cases** and *
 
 ---
 
-## 16. August / September 2026 hearing dates
+## 16. August / September / October 2026 hearing dates
 
-The **631802** live calendar shows an **August 26, 2026, 9:00 a.m.** defense access/fee hearing in Dept. 302 (papers as filed: [vexatious-opposition-aug26-2026/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md)). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. **September 9, 2026 CMC** is in Department 610 for both cases. June 24, 2026 consolidated hearing is historical. See [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) and [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
+On **August 26, 2026**, Dept. 302 heard the CCP 391 access motion in **631802** (papers as filed: [vexatious-opposition-aug26-2026/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md); order DocID `10397483`). The motion is continued to **October 6, 2026, 9:00 a.m., Dept. 302** (seq 354). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. **Next CMC** for both 801 and 802 is **October 21, 2026, 10:30 a.m., Dept. 610** (continued from September 9). June 24, 2026 consolidated hearing is historical. See [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md) and [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 
 ---
 
@@ -218,7 +218,7 @@ The following dates are **folder-level bookmarks** used throughout the narrative
 
 **2021-02-25 (21 days post-incident).** Date relationship described in the **631802** index between the collision and CSAA’s denial letter theory.
 
-**2022–2024.** Deposition tranche listed in [README.LEGACY.md](README.LEGACY.md): plaintiff, Victoria Rosario, Officer Fernandez, Nicholas Raffin (PMK for CSAA), and Subhi Abdelhalim.
+**2022-2024.** Deposition tranche listed in [README.LEGACY.md](README.LEGACY.md): plaintiff, Victoria Rosario, Officer Fernandez, Nicholas Raffin (PMK for CSAA), and Subhi Abdelhalim.
 
 **2024-02-01.** Compex subpoena PDF dated this day appears in [04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf](04-EXHIBITS/2024-02-01-Compex-Subpoena.pdf); plaintiff papers discuss requests for 911 and body-worn camera materials.
 
@@ -232,7 +232,7 @@ The following dates are **folder-level bookmarks** used throughout the narrative
 
 **2025-04-23.** Trial Day 11 reporter transcript; verdict.
 
-**2025–2026.** Post-trial filing of **631801** and **631802** complaints and memoranda per each case’s numbered PDF list.
+**2025-2026.** Post-trial filing of **631801** and **631802** complaints and memoranda per each case’s numbered PDF list.
 
 **2026-04-13 through 2026-04-19.** Demurrer volley PDFs under [demurrer-volley-apr2026/](03-CASE-CGC-25-631802/demurrer-volley-apr2026/README.md); consolidated opposition rebuild under [plaintiff-opposition-consolidated-apr2026/](03-CASE-CGC-25-631802/plaintiff-opposition-consolidated-apr2026/README.md); **FINAL-COURT** exhibit-integrated packets copied April 19 into [final-court-apr2026/](03-CASE-CGC-25-631802/final-court-apr2026/README.md).
 
@@ -264,13 +264,13 @@ The **631802** action isolates a **pre-filing** letter. That pleading choice mea
 
 ## 22. Parallel reading tracks for external reviewers
 
-**Track A — Judge or staff attorney:** Start at [timelines/trial-CGC-21-594102.md](timelines/trial-CGC-21-594102.md), then the clerk’s transcript PDF for any order referenced in a motion title, then the reporter PDF for the same calendar day. Cross-check with [evidence-tree/INDEX.md](evidence-tree/INDEX.md) for the element-by-element view.
+**Track A - Judge or staff attorney:** Start at [timelines/trial-CGC-21-594102.md](timelines/trial-CGC-21-594102.md), then the clerk’s transcript PDF for any order referenced in a motion title, then the reporter PDF for the same calendar day. Cross-check with [evidence-tree/INDEX.md](evidence-tree/INDEX.md) for the element-by-element view.
 
-**Track B — Media:** Start at [README.md](README.md) cold open, then [evidence.md](evidence.md) for audio/video, then [narrative/01-UNDERLYING-CGC-21-594102.md](narrative/01-UNDERLYING-CGC-21-594102.md) for the trial pleading tree only after listening links are reviewed.
+**Track B - Media:** Start at [README.md](README.md) cold open, then [evidence.md](evidence.md) for audio/video, then [narrative/01-UNDERLYING-CGC-21-594102.md](narrative/01-UNDERLYING-CGC-21-594102.md) for the trial pleading tree only after listening links are reviewed.
 
-**Track C — Disciplinary authorities:** Open [defendants/INDEX.md](defendants/INDEX.md), pick the subject, then open the matching PDF in [06-EVIDENCE/](06-EVIDENCE/INDEX.md). Return to trial transcripts only if the complaint quotes testimony.
+**Track C - Disciplinary authorities:** Open [defendants/INDEX.md](defendants/INDEX.md), pick the subject, then open the matching PDF in [06-EVIDENCE/](06-EVIDENCE/INDEX.md). Return to trial transcripts only if the complaint quotes testimony.
 
-**Track D — Opposing counsel:** Read [SPINE.md](SPINE.md) sections 5–9 first, then your client’s defendant page, then the **FINAL-COURT** PDFs if your filing matches that build.
+**Track D - Opposing counsel:** Read [SPINE.md](SPINE.md) sections 5-9 first, then your client’s defendant page, then the **FINAL-COURT** PDFs if your filing matches that build.
 
 ---
 

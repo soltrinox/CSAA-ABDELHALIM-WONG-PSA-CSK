@@ -1,6 +1,6 @@
 # Hearings and deadlines
 
-> **Posture (September 9, 2026 register):** Notices of appeal are on the civil ROA in both 801 and 802 (802 Tx `80347004`; 801 Tx `80347363`). Stay notices are on that register (802 Tx `80347745`; 801 Tx `80347943`). APP-003 is on each file (801 DocID `10403685`; 802 DocID `10403681`). **August 26, 2026, Dept. 302:** order DocID `10397483`; seq 354 continues the access motion to October 6, 2026, 9:00 a.m., Dept. 302. **August 21, 2026:** 802 fee motion off calendar (seq 349). **September 8, 2026, Dept. 301:** 801 fee motion off calendar pursuant to the August 19 notice (seq 232). **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610. First District numbers for the August 14 notices are not on this register.
+> **Posture (September 22, 2026):** Notices of appeal are on the civil ROA in both 801 and 802 (802 Tx `80347004`; 801 Tx `80347363`). Stay notices are on that register (802 Tx `80347745`; 801 Tx `80347943`). APP-003 is on each file (801 DocID `10403685`; 802 DocID `10403681`). First District numbers: **A177553** (801; clerk notice September 14, 2026) and **A177567** (802; clerk notice September 15, 2026). **August 26, 2026, Dept. 302:** order DocID `10397483`; seq 354 continues the access motion to October 6, 2026, 9:00 a.m., Dept. 302. **August 21, 2026:** 802 fee motion off calendar (seq 349). **September 8, 2026, Dept. 301:** 801 fee motion off calendar pursuant to the August 19 notice (seq 232). **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610.
 
 **Not legal advice.** Confirm dates and departments on the court portal. Links below go to this repository's PDFs and indices where mirrored.
 
@@ -18,7 +18,7 @@
 | **September 8, 2026, 9:00 a.m.** | **CGC-25-631801** | CCP 425.16(c) fee motion **off calendar** pursuant to the August 19, 2026 notice (seq 232; no View) | [801 STATE-2026-09-09](02-CASE-CGC-25-631801/docket-state/STATE-2026-09-09.md) · [801 Aug 14 hub](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
 | **August 31, 2026** | **801 + 802** | APP-003 notice designating record (no RT) on each superior-court file | [801 DocID 10403685](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/10403685.pdf) · [802 DocID 10403681](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/10403681.pdf) |
 | **September 22, 2026** | **CGC-25-631802** | Defense supplemental brief received 1:14 p.m.; plaintiff's objection set served 2:13 p.m. | [Defense brief as received](03-CASE-CGC-25-631802/sept22-2026-defense-supplemental-brief/README.md) · [Objection served](03-CASE-CGC-25-631802/sept22-2026-objection-defense-supp/README.md) · [AUG26 posture](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
-| **October 6, 2026, 9:00 a.m.** | **CGC-25-631802** | CCP 391 continued hearing (Dept. 302; working read of Aug 26 OCR) | [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
+| **October 6, 2026, 9:00 a.m.** | **CGC-25-631802** | CCP 391 continued hearing (Dept. 302; seq 354; order DocID `10397483`) | [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
 | **October 21, 2026, 10:30 a.m.** | **CGC-25-631802 + 631801** | Case Management Conference (Dept. 610); Sep 9 continued | [802 STATE-2026-09-09](03-CASE-CGC-25-631802/docket-state/STATE-2026-09-09.md) · [801 STATE-2026-09-09](02-CASE-CGC-25-631801/docket-state/STATE-2026-09-09.md) |
 | July 31, 2026, 9:00 a.m. | CGC-25-631801 | Reconsideration continued to Aug 11 (no appearance) | [801 ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-08-13.md) |
 | July 15, 2026, 9:00 a.m. | CGC-25-631801 | Reconsideration continued to July 31 (premature) | [801 ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md) |
@@ -29,7 +29,7 @@
 | May 15, 2026 | **CGC-25-631801** | Discovery motion denied (portal) | [801 docket-state](02-CASE-CGC-25-631801/docket-state/STATE-2026-07-27.md) |
 | May 22, 2026 | **CGC-25-631801** | CCP 436 MTS off calendar / withdrawn | [801 ROA audit](02-CASE-CGC-25-631801/docket-state/ROA-AUDIT-2026-07-27.md) |
 | *Historical* | **CGC-25-631802** | Continued from May 29, 2026 setting to June 24 | [May 13 continuance hub](03-CASE-CGC-25-631802/calendar-continuance-may-13-2026/README.md) |
-| Ongoing | **A173827** (trial) **+ Aug 14 801/802 anti-SLAPP appeals** | First District (801/802 numbers TBA) | [Appeal index](01-APPEAL/INDEX.md) |
+| Ongoing | **A173827** (trial) **+ A177553 (801) + A177567 (802)** | First District anti-SLAPP appeals from August 14, 2026 notices | [Appeal index](01-APPEAL/INDEX.md) |
 
 ### Post-May-12, 2026 deadlines (CGC-25-631801; Day 0 = service of notice of entry)
 
