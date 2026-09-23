@@ -4,7 +4,7 @@
 
 **Collision:** February 4, 2021, Tehama and 5th Street, San Francisco. CGC-21-594102.
 
-[< Back to case record](README.md) | [Embedded videos and images](evidence.html) | [C26-02801 core wrong](04-CASE-C26-02801/INDEX.md) | [Exhibit index](04-EXHIBITS/INDEX.md) | [Legal analysis](08-LEGAL-ANALYSIS/INDEX.md)
+[< Back to case record](README.md) | [Embedded videos and images](evidence.html) | [C26-02801 core wrong](04-CASE-C26-02801/INDEX.md) | [September 22 merits crosswalk](MERITS-2026-09-22.md) | [Exhibit index](04-EXHIBITS/INDEX.md) | [Legal analysis](08-LEGAL-ANALYSIS/INDEX.md)
 
 ---
 
@@ -45,7 +45,7 @@ CSAA's later 802 papers describe a completed investigation and a jury that "agre
 | E-14 | 2026-04-22 | CSAA: "CSAA performed an investigation, determined that its insured was not liable." | [802 section 436 MPA](03-CASE-CGC-25-631802/motion-strike-apr2026/PARSED/TEXT/MPA2-CCP436.md) |
 | E-15 | C26-02801 | Filed common-law deceit count: completed-investigation representation versus empty report-identified file. | [C26 page](04-CASE-C26-02801/INDEX.md) · [verified complaint](04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf) |
 
-Claim-family map: [evidence-tree](evidence-tree/INDEX.md). Trial exhibit PDFs: [04-EXHIBITS](04-EXHIBITS/INDEX.md).
+Claim-family map: [evidence-tree](evidence-tree/INDEX.md). Trial exhibit PDFs: [04-EXHIBITS](04-EXHIBITS/INDEX.md). Excerpt-declaration IDs D-01 to J-03, mapped to these pins: [MERITS-2026-09-22.md](MERITS-2026-09-22.md).
 
 ---
 

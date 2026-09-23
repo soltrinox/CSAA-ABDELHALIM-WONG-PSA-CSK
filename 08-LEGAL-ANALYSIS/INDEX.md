@@ -124,6 +124,7 @@ Senior-memorandum-style review of the April 2026 demurrer volley. Narrates what 
 | Journal Article | The strategic architecture across all proceedings | All five cases |
 | *Moradi-Shalal* carve-out hub | Common-law preservation clause; meet-and-confer + analysis (Apr. 27, 2026) | CGC-25-631801 · CGC-25-631802 |
 | C26-02801 core-wrong page | Independent common-law deceit; filed theory and supporting record | C26-02801 |
+| [September 22, 2026 merits crosswalk](../MERITS-2026-09-22.md) | Excerpt declarations D-01 to J-03 mapped to pins E-01 to E-15 | C26-02801 · 801 · 802 · 594102 |
 | Anti-SLAPP rebuttal hub | CSAA Anti-SLAPP memorandum rebuttal; O’Connell declaration | CGC-25-631802 |
 | Demurrer rebuttal hub | Ground-by-ground review of the April 2026 demurrer volley; consequences to the defense | CGC-25-631802 |
 | Aug. 21 personal dialogue letter | First Amendment commentary to O'Connell; not a filing | All proceedings |

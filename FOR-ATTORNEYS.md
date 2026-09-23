@@ -64,6 +64,7 @@ A single table with links to PDFs in this repository: [`HEARINGS-CALENDAR.md`](H
 | UCL 631802 | [`03-CASE-CGC-25-631802/INDEX.md`](03-CASE-CGC-25-631802/INDEX.md) |
 | Contra Costa deceit C26-02801 | [`04-CASE-C26-02801/INDEX.md`](04-CASE-C26-02801/INDEX.md) |
 | Evidence pins | [`evidence.md`](evidence.md), [`evidence-tree/INDEX.md`](evidence-tree/INDEX.md) |
+| September 22 merits crosswalk | [`MERITS-2026-09-22.md`](MERITS-2026-09-22.md) |
 | Cross-case strategy | [`CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md`](CROSS-CASE-NARRATIVE-LEGAL-THEORY-AND-LEVERAGE.md), [`CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md`](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) |
 | Defendants map | [`defendants/INDEX.md`](defendants/INDEX.md) |
 

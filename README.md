@@ -343,7 +343,8 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |
-| The merits, element by element | [MERITS.md](MERITS.md) | Every count tied to pleading paragraphs |
+| September 22, 2026 merits crosswalk | [MERITS-2026-09-22.md](MERITS-2026-09-22.md) | Morning excerpt declarations (D-01 to J-03) mapped to pins E-01 to E-15 |
+| The merits, element by element | [MERITS.md](MERITS.md) | Earlier TAC-aligned meet-and-confer letter |
 | Defense access/fee papers as filed | [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) | Defense moving papers after the strike orders; plaintiff's filed PDFs mirrored as filed |
 | Plaintiff-authored analysis | [ANALYSIS/README.md](ANALYSIS/README.md) | Long-form memos; not court filings |
 | Defense filings as filed | [DEFENSE-FILINGS/](DEFENSE-FILINGS/) | Clerk PDFs |

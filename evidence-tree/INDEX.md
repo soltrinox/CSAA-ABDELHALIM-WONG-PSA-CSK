@@ -2,7 +2,7 @@
 
 This page maps **claim families** (as pled or argued in linked PDFs) to **primary sources** in this repository. It states **where to read**, not **who will win**.
 
-Numbered media and transcript pins live on [evidence.md](../evidence.md) (E-01 through E-15). This page is the claim-family index to those pins.
+Numbered media and transcript pins live on [evidence.md](../evidence.md) (E-01 through E-15). The September 22 excerpt-declaration IDs (D-01 through J-03) are mapped to those pins on [MERITS-2026-09-22.md](../MERITS-2026-09-22.md). This page is the claim-family index to those pins.
 
 ---
 

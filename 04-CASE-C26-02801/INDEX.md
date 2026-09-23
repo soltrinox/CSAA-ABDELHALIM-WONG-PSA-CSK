@@ -77,6 +77,7 @@ The verdict therefore does not adjudicate the investigation or the truth of the 
 - [Verified Complaint for Common-Law Fraudulent Misrepresentation, C26-02801](VERIFIED-COMPLAINT-C26-02801.pdf).
 - [Sent September 22, 2026, 8:23 p.m. personal dialogue stating this formulation](../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md).
 - [Homepage banner argument](../README.md#banner-argument-c26-02801-and-the-core-wrong).
+- [September 22, 2026 merits crosswalk](../MERITS-2026-09-22.md) (excerpt declarations D-01 to J-03 to pins E-01 to E-15).
 
 **The 2021 representation and the claim-file materials**
 

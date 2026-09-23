@@ -29,7 +29,7 @@ Thread sent to CSAA counsel, Porter Scott, PSA Law, and `investigations@insuranc
 
 File-stamped A173827 rehearing papers attached to the opening message: [sept-2026-rehearing](../../01-APPEAL/sept-2026-rehearing/README.md).
 
-Declarations the sender stated were filed, with no clerk transaction ID on this mirror: [sent-attachments](sent-attachments/README.md).
+Declarations the sender stated were filed, with no clerk transaction ID on this mirror: [sent-attachments](sent-attachments/README.md). Exhibit-by-exhibit merits breakdown: [MERITS-2026-09-22.md](../../MERITS-2026-09-22.md).
 
 Already on the site, linked from the opening message and not copied again: [Appellant's reply brief](../../01-APPEAL/09-Appellants-Reply-Brief.pdf) and [C26-02801 verified complaint](../../04-CASE-C26-02801/VERIFIED-COMPLAINT-C26-02801.pdf).
 

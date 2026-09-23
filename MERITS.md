@@ -1,3 +1,5 @@
+> **September 22, 2026 excerpt-declaration crosswalk:** the merits breakdown of the papers sent that morning, mapped to evidence pins E-01 to E-15, is [MERITS-2026-09-22.md](MERITS-2026-09-22.md). The letter below is the earlier TAC-aligned meet-and-confer statement.
+
 > **Posture (May 12, 2026):** 801 portions of this document are now appellate-record material (see [01-APPEAL/EQUITY-PRESERVATION-LANE/](01-APPEAL/EQUITY-PRESERVATION-LANE/README.md)); 802 portions remain operative for the June 24, 2026 split-calendar hearing (June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken + Dept. 302 / Quinn)) (see [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md)).
 # Meet-and-Confer Letter: TAC-Aligned Merits Statement
 

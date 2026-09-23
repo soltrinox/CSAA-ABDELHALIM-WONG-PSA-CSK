@@ -298,6 +298,7 @@ Every element of the C26 formulation is drawn from the filed complaint and from 
 | [Journal Article: Three-Front Litigation Architecture](08-LEGAL-ANALYSIS/JOURNAL-ARTICLE-ADVANCED-LITIGATION-STRATEGY-2026.md) | Technical analysis of the multi-front strategic design; *Advanced Civil Litigation Strategy Review* (2026) |
 | [Anti-SLAPP rebuttal hub](08-LEGAL-ANALYSIS/anti-slapp-rebuttal/INDEX.md) | CGC-25-631802: authority-by-authority response to CSAA's Anti-SLAPP memorandum; Tyler O'Connell declaration page |
 | [C26-02801 core-wrong page](04-CASE-C26-02801/INDEX.md) | Filed common-law deceit count; *Moradi-Shalal* preservation clause; supporting record links |
+| [September 22, 2026 merits crosswalk](MERITS-2026-09-22.md) | Morning excerpt declarations D-01 to J-03 mapped to evidence pins E-01 to E-15 |
 
 ---
 

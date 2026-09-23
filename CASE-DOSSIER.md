@@ -74,7 +74,7 @@ flowchart TB
 | Feb. 18, 2025 hearing register | [`05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf`](05-TRANSCRIPTS/HEARINGS/All-Hearing-Transcripts-Rosario-AAA.pdf) (verify cite) |
 | MIL / instruction context | Use [`05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf`](05-TRANSCRIPTS/CLERKS-TRANSCRIPT/CGC-21-594102-A173827-Clerks-Transcript-Full.pdf) and [`01-APPEAL/01-Appellants-Opening-Brief.pdf`](01-APPEAL/01-Appellants-Opening-Brief.pdf) |
 
-Audio, body-cam, and pin register: [`evidence.md`](evidence.md).
+Audio, body-cam, and pin register: [`evidence.md`](evidence.md). September 22 excerpt-declaration crosswalk: [`MERITS-2026-09-22.md`](MERITS-2026-09-22.md).
 
 ---
 

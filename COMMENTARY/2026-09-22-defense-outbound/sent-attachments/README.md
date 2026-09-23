@@ -12,4 +12,6 @@ These PDFs were attached to mail sent September 22, 2026. The sender stated that
 
 Cover notes: [9:45 a.m.](../../../correspondence/personal-dialogue/2026-09-22-commentary-waiver-declarations.md) · [12:03 p.m.](../../../correspondence/personal-dialogue/2026-09-22-commentary-waiver-excerpts.md).
 
+Exhibit-by-exhibit breakdown and evidence pins: [MERITS-2026-09-22.md](../../../MERITS-2026-09-22.md).
+
 [Thread hub](../README.md)
