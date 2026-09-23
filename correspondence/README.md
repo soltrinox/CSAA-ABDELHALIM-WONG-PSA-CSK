@@ -16,7 +16,7 @@ Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through
 | Evidence Code 1152 | Settlement paper. Stays 1152. | [banners/settlement-1152.md](banners/settlement-1152.md) |
 | Service transmittal | Packet cover / POS cover. Stays service. Not new service. | [banners/service-transmittal.md](banners/service-transmittal.md) |
 
-Defense From (O'Connell, Schubert, Blithe) is **not** published in the class index as Rosario speech. Those inbound messages **are** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, labeled as such. `_1.md` twins from the May 6, 2026 Porter Scott export are ignored. August 21, 2026 and August 27, 2026 personal dialogue letters are **not claimed served**.
+Defense From (O'Connell, Schubert, Blithe) is **not** published in the class index as Rosario speech. Those inbound messages **are** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, labeled as such. `_1.md` twins from the May 6, 2026 Porter Scott export are ignored. August 21, 2026 and August 27, 2026 personal dialogue letters are commentary.
 
 Folders: [personal-dialogue/](personal-dialogue/) · [meet-and-confer/](meet-and-confer/) · [safe-harbor-1287/](safe-harbor-1287/) · [settlement-1152/](settlement-1152/) · [service-transmittal/](service-transmittal/) · [full-archive/](full-archive/)
 

@@ -6,7 +6,7 @@
 
 **Purpose:** This document converts a remand checklist into an operating plan of roughly seven thousand words. It explains *why* each cluster of tasks matters, how it supports the strategic goal that the defense must confront a complete, authenticated, and procedurally fair record, and it adds suggestions that often separate thorough remand practice from reactive trial court drift. Use it as a single scrollable reference for partners, associates, paralegals, and appellate liaison staff.
 
-**Scope and disclaimer:** This is an internal litigation organization and strategy guide. It is not legal advice. Every item must be adapted to the **exact appellate mandate**, current **operative pleadings**, **discovery orders**, **department** practices, and **case type**. California civil procedure and evidence rules apply; local San Francisco Superior Court e-filing and departmental rules layer on top.
+**Scope:** California civil procedure and evidence rules apply; local San Francisco Superior Court e-filing and departmental rules layer on top. The items below track the appellate mandate, operative pleadings, discovery orders, department practices, and case type.
 
 **Relationship to Appeal-MASTER:** Your appellate workflow already emphasized **record augmentation**, certified clerk’s and reporter’s transcripts, and disciplined citation. Carry that same discipline into the superior court on remand so a potential **second appeal** is clean and so the trial record cannot be fragmented by informal stipulations, incomplete productions, or “we never saw that” narratives.
 

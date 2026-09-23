@@ -2,7 +2,6 @@
 
 Public mirror of **Superior Court of California, County of San Francisco / File and Serve** submissions for **Rosario v. CSAA Insurance Exchange** (CGC-25-631802), grouped for clerks, press, and counsel.
 
-Nothing here is legal advice. Allegations in complaints remain unproven until adjudicated.
 
 ---
 

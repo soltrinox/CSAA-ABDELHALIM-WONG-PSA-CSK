@@ -48,4 +48,4 @@ Full table and authority-by-authority rebuttal: [Plaintiff-Rebuttal-Anti-SLAPP-F
 
 ---
 
-*This page summarizes themes from Plaintiff’s opposition materials. It is not legal advice.*
+*This page summarizes themes from Plaintiff’s opposition materials.*

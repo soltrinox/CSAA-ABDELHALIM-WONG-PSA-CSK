@@ -79,7 +79,7 @@ Your `COURT.RELIANCE.md` recounts a pivotal instructional moment where the court
 
 ## III-F. Record-based comparison (independent evidence vs Fernandez report vs Fernandez at trial)
 
-Here is a **record-based comparison** (how your materials frame **independent evidence** vs **what went into the Fernandez report** vs **what Fernandez said at trial**). A trier of fact decides what to believe; this is **not legal advice**.
+Here is a **record-based comparison** (how your materials frame **independent evidence** vs **what went into the Fernandez report** vs **what Fernandez said at trial**).
 
 ### 1. Independent / “real” evidence your files emphasize
 
@@ -357,12 +357,6 @@ A **de novo** retrial or an **equity** factfinding proceeding is where those lay
 
 ---
 
-### Disclaimer (integrated analysis)
-
-This integrated analysis is **not legal advice**. It synthesizes themes from workspace materials and trial extracts; it does not establish facts binding on any court. Allegations of fraud, due process violations, or malpractice require proof under applicable standards.
-
-
----
 
 # Part B — Full verbatim import: `COURT.RELIANCE.md`
 
@@ -759,9 +753,6 @@ Under *Egan*, *Mariscal*, *Bartel*, *Gruenberg*, Insurance Code section 790.03(h
 *Single self-contained narrative (condensed).*
 
 
-**Disclaimer:** This is analytical material, not legal advice. It does not assert that any person or institution has been adjudged liable or that any court finding is final. A trier of fact decides what occurred and what law applies.
-
----
 
 ## 1. What this document argues
 
@@ -898,4 +889,3 @@ The discrepancy you emphasize is **three-layered**: **paper incident narrative v
 
 ---
 
-**Again:** not legal advice; theories require proof under governing standards; outcomes depend on courts and juries.

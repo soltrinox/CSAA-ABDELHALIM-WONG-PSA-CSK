@@ -1,6 +1,6 @@
 # Rosario v. Abdelhalim et al.: a public analysis of the record
 
-> Open public record. All documents are California court filings. Nothing here is legal advice; allegations in complaints are unproven until adjudicated.
+> Open public record. All documents are California court filings.
 
 > **Speech and petition (governing).** This archive is published as speech. The lawsuits are filed as petitions. Those are two different rights. The homepage states them in full under [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Publishing a page here is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
 
@@ -19,7 +19,7 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 
 ## Banner argument: C26-02801 and the core wrong
 
-> **This section is commentary published September 22, 2026.** It is not a court filing, is not service of any paper, and does not restart any Code of Civil Procedure section 128.7 period. The legal formulation was sent by email to CSAA and its counsel on September 22, 2026. The verified complaint is on file as Contra Costa Case No. C26-02801; the exact clerk filing date and a conformed-stamp image are not present in the local copy. Service of summons and complaint was not perfected as of September 22, 2026. Allegations remain unproven unless and until adjudicated.
+> **This section is commentary published September 22, 2026.** It is not a court filing, is not service of any paper, and does not restart any Code of Civil Procedure section 128.7 period. The legal formulation was sent by email to CSAA and its counsel on September 22, 2026. The verified complaint is on file as Contra Costa Case No. C26-02801.
 
 **The core wrong is independent common-law deceit about completed historical acts.** CSAA represented that it had "concluded our investigation" after "carefully reviewing the facts and circumstances." The filed complaint alleges that the claim file recorded no request, receipt, or review of the police-report-identified 911, body-worn-camera, and computer-aided-dispatch materials before closure. The action seeks reliance damages under Civil Code sections 1709, 1710, subdivision (1), and 3333. It does not seek private enforcement of Insurance Code section 790.03, policy benefits, or the value of the underlying bodily-injury claim.
 
@@ -35,7 +35,7 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 
 ## Ten defense acts
 
-> **This section is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. It is not service of any paper on any party. It does not restart any Code of Civil Procedure section 128.7 period. Allegations are unproven until adjudicated. Formal positions remain those stated in papers already on file.
+> **This section is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. It is not service of any paper on any party. It does not restart any Code of Civil Procedure section 128.7 period. Formal positions remain those stated in papers already on file.
 
 These ten are the sharpest illegal acts in the defense chronology. Each one is already in the claim file, the reporter's transcript, or a paper a court has seen.
 
@@ -147,7 +147,7 @@ Five proceedings take that single proposition and ask different courts different
 | A173827 | Did legal error in that trial require reversal? | Merits briefs complete August 20, 2026; respondent opposition to the companion motion to disregard received September 1, 2026; argument not set |
 | CGC-25-631801 | Should the judgment be set aside because it was procured by extrinsic fraud? | Struck August 6, 2026; on appeal |
 | CGC-25-631802 | Was the 2021 denial letter itself an actionable misrepresentation? | Struck July 1, 2026; on appeal |
-| C26-02801 | Did CSAA commit common-law deceit by representing completed investigative acts that its claim file allegedly does not document? | Filed in Contra Costa Superior Court; exact clerk filing date not shown in the local copy; service not perfected as of September 22, 2026 |
+| C26-02801 | Did CSAA commit common-law deceit by representing completed investigative acts that its claim file allegedly does not document? | Filed in Contra Costa Superior Court |
 
 A separate access motion is pending alongside those proceedings. After the contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of the strike orders now on appeal. On August 26, 2026, Department 302's court-sent face ruling on the CCP 391 access motion stated "Off calendar. Case stayed." Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md).
 
@@ -272,12 +272,12 @@ Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FA
 |------------|--------------------------------|--------------------------|
 | CGC-21-594102 | Judgment entered; on appeal | See A173827 |
 | A173827 | Fully briefed August 20, 2026 | Argument not set |
-| CGC-25-631801 | Struck August 6; on appeal. APP-003 DocID `10403685`. First District number not on this register. Sept 8 fees off calendar. | Oct 21, 2026, 10:30 a.m., Dept. 610 (CMC) |
-| CGC-25-631802 | Struck July 1; on appeal. APP-003 DocID `10403681`. First District number not on this register. Aug 26 order DocID `10397483`. | Oct 6, 2026, 9:00 a.m., Dept. 302 (391 continued, seq 354); Oct 21 CMC |
-| C26-02801 | Verified complaint filed in Contra Costa Superior Court; exact clerk filing date and conformed stamp not shown in the local copy; service not perfected as of September 22, 2026 | Department, judge, and first case-management date not verified |
+| CGC-25-631801 | Struck August 6; on appeal. APP-003 DocID `10403685`. Sept 8 fees off calendar. | Oct 21, 2026, 10:30 a.m., Dept. 610 (CMC) |
+| CGC-25-631802 | Struck July 1; on appeal. APP-003 DocID `10403681`. Aug 26 order DocID `10397483`. | Oct 6, 2026, 9:00 a.m., Dept. 302 (391 continued, seq 354); Oct 21 CMC |
+| C26-02801 | Verified complaint filed in Contra Costa Superior Court | |
 | Both 2025 cases | Case management statements filed August 14 | Oct 21, 2026, 10:30 a.m., Dept. 610 |
 
-**Appellate numbers for the August 14 notices are not on the September 9, 2026 register. Do not infer them.** APP-003 (no reporter's transcript) is on each superior-court file: 801 Tx `80503647`; 802 Tx `80503745`.
+APP-003 (no reporter's transcript) is on each superior-court file: 801 Tx `80503647`; 802 Tx `80503745`.
 
 Stay notices Tx `80347745` and `80347943` are on that register. The August 26 Department 302 clerk order is DocID `10397483`. Exact register citations: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). September 8, 2026 Department 301 minutes take the 801 fee hearing off calendar pursuant to the August 19 notice.
 
@@ -293,7 +293,7 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 |----------------|------------|
 | [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary only. Not a filing. |
 | [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
-| [September 21-22, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served or received that day. Clerk filing of the 802 set is not shown. |
+| [September 21-22, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served or received that day. |
 
 Full message table: [COMMENTARY/csaa-porter-scott-correspondence/MESSAGE-INDEX.md](COMMENTARY/csaa-porter-scott-correspondence/MESSAGE-INDEX.md). Exclusions: [EXCLUSIONS.md](COMMENTARY/csaa-porter-scott-correspondence/EXCLUSIONS.md).
 
@@ -358,6 +358,6 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 
 ## Disclaimer
 
-This is a mirror maintained by a party, not the official record. The San Francisco Superior Court register of actions and the Court of Appeal docket are authoritative. Allegations in pleadings remain unproven until adjudicated. Nothing on this site is legal advice, and nothing here is service of any paper on any party.
+Nothing on this site is service of any paper on any party.
 
 Commentary on this site is speech under the First Amendment and article I, section 2 of the California Constitution. Filings remain petitions under the First Amendment and article I, section 3. Publishing one does not become the other. The rights, and the line between them, are stated above.

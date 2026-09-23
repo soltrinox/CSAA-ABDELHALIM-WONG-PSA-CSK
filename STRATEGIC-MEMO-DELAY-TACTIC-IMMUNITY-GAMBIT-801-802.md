@@ -4,7 +4,7 @@
 **Document type:** Internal strategic narrative memo (not a captioned brief)
 **Purpose:** Expose the defense's two-layer immunity gambit (pre-litigation claim-handling misrepresentations and extrinsic-to-the-tribunal misrepresentations) as a delay tactic categorically barred by Code of Civil Procedure section 425.17(c) and outside the limits of the Civil Code section 47(b) litigation privilege. Companion to `EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md`, `STRATEGIC-POSTURE-AND-TEN-FATAL-TACTICS.md`, and the cross-hearing 425.17 memoranda at `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/{801,802}/src/MEMORANDUM-42517-425-17C-CROSS-HEARING-{801,802}.tex`.
 
-> **Caveat.** This is a working strategic memo for the pro per litigant's own preparation. It is not legal advice, and it does not replace formal consultation with counsel. Every authority cited here is verified against `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/CITATION-VALIDATION-42517.md` and `CASE-LAW-AND-STATUTES/cache-defense-email-antislapp-2026-05/TABLE-OF-AUTHORITIES.md`. No new authorities are introduced.
+> Every authority cited here is verified against `APRIL-30-2026/CROSS-HEARING-42517-PACKAGE/CITATION-VALIDATION-42517.md` and `CASE-LAW-AND-STATUTES/cache-defense-email-antislapp-2026-05/TABLE-OF-AUTHORITIES.md`. No new authorities are introduced.
 
 ---
 

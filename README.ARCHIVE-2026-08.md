@@ -6,7 +6,7 @@
 
 # Rosario v. Abdelhalim et al.: forensic case record
 
-> Open public record. All documents are California court filings. Nothing here is legal advice; allegations in complaints are unproven until adjudicated.
+> Open public record. All documents are California court filings.
 
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court · California Court of Appeal, First Appellate District, Division Three
@@ -305,7 +305,7 @@ Plaintiff served the defense team the **same-day combined motion-for-leave / SAC
 - **Notices of appeal confirmed on the register.** Both August 14 notices now carry register sequence numbers and clerk DocIDs (802 seq 327-329; 801 seq 207-209). The stay notices, fee oppositions, 801 tax motion, and plaintiff CM-110s were **not** on the August 20 register pull.
 - **Next plaintiff deadline is the record designation.** Form APP-003 under CRC 8.121 is due **August 24, 2026**, filed separately in each superior-court file. APP-004 waits on the Court of Appeal clerk's notice; appellate numbers remain **TBA**.
 - **A173827 reply papers indexed on the homepage.** The appeal document table now lists items 8 through 14, including the Respondent's Opening Brief and the August 20 reply wave.
-- **Correspondence archive (split labels; not a filing).** Rosario-to-defense emails and letters, classified as they were when sent. Personal-dialogue items carry the First Amendment / article I, section 2 waiver. Meet-and-confer, CCP 128.7, Evidence Code 1152, and service transmittals keep that legal character. Publishing does not convert those papers into personal dialogue, does not restart any 128.7 clock, and is not new service. Hub: [correspondence/INDEX.md](correspondence/INDEX.md) (32 events). August 21 letter: **not claimed served**.
+- **Correspondence archive (split labels; not a filing).** Rosario-to-defense emails and letters, classified as they were when sent. Personal-dialogue items carry the First Amendment / article I, section 2 waiver. Meet-and-confer, CCP 128.7, Evidence Code 1152, and service transmittals keep that legal character. Publishing does not convert those papers into personal dialogue, does not restart any 128.7 clock, and is not new service. Hub: [correspondence/INDEX.md](correspondence/INDEX.md) (32 events).
 - **Personal dialogue letter to Tyler J. O'Connell (not a filing).** First Amendment / article I, section 2 commentary addressed to CSAA's counsel of record, with a face waiver that it is personal dialogue, not a pleading, not a settlement offer, and not a substitute for papers on file. Canonical: [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) · email-ready twin: [LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md](LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md). Formal positions remain those in the filed 801/802 and A173827 papers.
 
 ## What's new (August 20, 2026)
@@ -891,7 +891,7 @@ Static Markdown and PDF. Typical Pages setting: deploy `main` from root, or move
 
 ## Disclaimer
 
-This repository publishes **public** PDFs for transparency. It is **not** legal advice. Allegations in complaints are unproven until adjudicated. Inquiries from licensed California attorneys are welcome via [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md); reading or contacting the plaintiff does not create an attorney-client relationship.
+This repository publishes **public** PDFs for transparency. Inquiries from licensed California attorneys are welcome via [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md).
 
 Publishing a paper here is not service and does not restart any Code of Civil Procedure section 128.7 period.
 

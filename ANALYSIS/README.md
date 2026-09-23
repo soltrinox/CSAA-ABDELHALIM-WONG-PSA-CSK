@@ -1,6 +1,6 @@
 # ANALYSIS (plaintiff-authored)
 
-**Plaintiff-authored analytical writing. Not a court filing. Not legal advice. Allegations in complaints are unproven until adjudicated.**
+**Plaintiff-authored analytical writing. Not a court filing.**
 
 This folder collects **long-form analytical memoranda** and links to related narrative files that remain at the site root (to preserve inbound links).
 

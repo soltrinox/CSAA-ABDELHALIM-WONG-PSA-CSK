@@ -9,7 +9,6 @@ For the **e-service receipts and document lists** (SFTC transaction IDs, authori
 
 > **Status note (clerk review).** Filings transmitted Apr. 28–29 were marked **Pending** on the receipt and had not yet appeared on the docket export captured Apr. 28 5:15 pm. They will appear after the clerk completes review.
 
-Nothing here is legal advice. Allegations remain unproven until adjudicated.
 
 ---
 

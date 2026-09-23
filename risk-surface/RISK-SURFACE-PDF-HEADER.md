@@ -20,7 +20,7 @@ header-includes:
 
 \vspace{0.5em}
 
-**NOTICE.** This memorandum presents a structured **risk surface** and damages **model** for internal risk assessment and negotiation framing. Dollar figures are **estimates** derived from comparable outcomes, market assumptions, and the documented record as described in the body. **This document is not legal advice** and does not predict any court outcome. Counsel should independently verify citations, assumptions, and applicability to any motion, settlement session, or trial.
+**NOTICE.** This memorandum presents a structured **risk surface** and damages **model**. Dollar figures are derived from comparable outcomes, market assumptions, and the documented record as described in the body.
 
 **Settlement / mediation context.** Where magnitude **neighborhoods** (e.g., seven- versus eight-figure bands) appear in Section A below, they parallel the framing used in confidential settlement communications under California Evidence Code section 1154. The **enumerated** dollar model in the main body (following Section A) is the quantitative cross-walk to those neighborhoods.
 

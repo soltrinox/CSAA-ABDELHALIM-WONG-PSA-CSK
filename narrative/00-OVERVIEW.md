@@ -40,7 +40,7 @@ If a sentence cannot end with a working link to a **PDF** in this folder, it pro
 
 ## Disclaimer
 
-No legal advice. Allegations in complaints are unproven until adjudicated. Transcript quotations in narratives use the **repository’s PDF names**; line numbers inside those PDFs are the authoritative pagination for any filing that cites them.
+Transcript quotations in narratives use the **repository’s PDF names**; line numbers inside those PDFs are the authoritative pagination for any filing that cites them.
 
 ---
 

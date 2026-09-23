@@ -1,4 +1,4 @@
-> **POSTURE (September 9, 2026 register).** Notice of appeal on ROA (Tx `80347004`) from the July 1, 2026 order (DocID `10297081`) to the **First Appellate District** (number not on this register). Stay listed Tx `80347745` (official stay PDFs missing on disk). Fee opposition listed Tx `80348027` (body images missing; POS DocID `10377165` local). CM-110 Tx `80349265`. APP-003 Tx `80503745`, DocID `10403681`. Hub: [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) · [PUBLIC-SYNOPSIS](aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md) · [July 1 order](court-orders/2026-07-01-strike-order-grant/README.md).
+> **POSTURE (September 9, 2026 register).** Notice of appeal on ROA (Tx `80347004`) from the July 1, 2026 order (DocID `10297081`) to the **First Appellate District**. Stay listed Tx `80347745`. Fee opposition listed Tx `80348027` (POS DocID `10377165`). CM-110 Tx `80349265`. APP-003 Tx `80503745`, DocID `10403681`. Hub: [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) · [PUBLIC-SYNOPSIS](aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md) · [July 1 order](court-orders/2026-07-01-strike-order-grant/README.md).
 >
 > **August 26, 2026, Dept. 302:** CCP 391 heard. Court-sent face ruling: **Off calendar. Case stayed.** Continued for jurisdiction / *Pittman* briefing (working read: Oct 6, 2026; briefs by Sept 22). Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). Papers hub: [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md). Fee line same morning: not addressed in face ruling (`[VERIFY-HUMAN]`). **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610. Companion 801 appeal: [aug14-2026-appeal-stay-fees-tax-cmc](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
 
@@ -27,7 +27,7 @@
 
 | Hub | Description |
 |-----|-------------|
-| [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) | **On ROA Aug 14 to Aug 31:** NOA Tx `80347004`; stay listed Tx `80347745` (official PDFs missing); fee-opp POS Tx `80348027`; CM-110 Tx `80349265`; APP-003 Tx `80503745` |
+| [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) | **On ROA Aug 14 to Aug 31:** NOA Tx `80347004`; stay listed Tx `80347745`; fee-opp POS Tx `80348027`; CM-110 Tx `80349265`; APP-003 Tx `80503745` |
 | [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md) | **Aug 26 heard:** defense access/fee papers as filed; court face ruling "Off calendar. Case stayed." · [AUG26-COURT-POSTURE-AND-391-FINALITY.md](vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
 | [hearing-package-may-8-2026/](hearing-package-may-8-2026/README.md) | May 8 cure batch (operative oppositions + supporting papers) |
 | [calendar-continuance-may-13-2026/](calendar-continuance-may-13-2026/README.md) | May 13 continuance to June 24 + restamp notices |
@@ -47,7 +47,7 @@
 
 Porter Scott / CSAA sent-and-received mail for these cases is indexed as commentary at [COMMENTARY/csaa-porter-scott-correspondence/](../COMMENTARY/csaa-porter-scott-correspondence/README.md). Message bodies remain in the [correspondence completeness set](../correspondence/full-archive/README.md).
 
-September 22, 2026 mail on the supplemental-brief thread, including papers served that day (clerk filing not shown): [COMMENTARY/2026-09-22-defense-outbound/](../COMMENTARY/2026-09-22-defense-outbound/README.md) · [objection set](sept22-2026-objection-defense-supp/README.md) · [defense supplemental brief as received](sept22-2026-defense-supplemental-brief/README.md).
+September 22, 2026 mail on the supplemental-brief thread, including papers served that day: [COMMENTARY/2026-09-22-defense-outbound/](../COMMENTARY/2026-09-22-defense-outbound/README.md) · [objection set](sept22-2026-objection-defense-supp/README.md) · [defense supplemental brief as received](sept22-2026-defense-supplemental-brief/README.md).
 
 ---
 

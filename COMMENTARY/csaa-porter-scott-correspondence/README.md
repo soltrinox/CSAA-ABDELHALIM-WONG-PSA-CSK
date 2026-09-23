@@ -41,7 +41,7 @@ A commentary entry point that **lists and links** every email in the existing pu
 
 ## Related personal dialogue (not claimed as service)
 
-These are commentary letters already on the site. Send status is **not claimed served** on their face:
+These are commentary letters already on the site:
 
 - [LETTER-TO-OCONNELL-AUG21-2026.md](../../LETTER-TO-OCONNELL-AUG21-2026.md) · [email-ready twin](../../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md)
 - [LETTER-TO-OCONNELL-AUG27-2026.md](../../LETTER-TO-OCONNELL-AUG27-2026.md) · [email-ready twin](../../LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md)

@@ -56,7 +56,7 @@ Economic / **litigation** **costs**, **lost** **earnings** / **productive** **ti
 
 ---
 
-## 6. Plaintiff objection / rebuttal hooks (strategic — not legal advice)
+## 6. Plaintiff objection / rebuttal hooks (strategic)
 
 - **Fraud** **on** **court** / **equity** **COA** **vs** **ordinary** **issue** **preclusion** — [GITHUB-PAGE/CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](../../GITHUB-PAGE/CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) **(three-forum** **spine: 911, BWC, CAD,** **Day-7** **admission**).  
 - **§ 47** **not** **absolute** **as** to **fraud** **on** **the** **tribunal** / **extrinsic** **fraud** **(record-specific)**.  

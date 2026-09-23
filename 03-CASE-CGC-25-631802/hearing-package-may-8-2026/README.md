@@ -4,7 +4,7 @@
 >
 > **Next hearing:** June 24, 2026, 9:00 a.m., split calendar (Dept. 301 / Van Aken for transferred MFL-TAC and CCP 436 items; Dept. 302 / Quinn for remaining consolidated motions). See [docket-state](../docket-state/STATE-2026-05-28.md).
 
-Public mirror of plaintiff cure filings for **Rosario v. CSAA Insurance Exchange** (CGC-25-631802). Nothing here is legal advice.
+Public mirror of plaintiff cure filings for **Rosario v. CSAA Insurance Exchange** (CGC-25-631802).
 
 ---
 

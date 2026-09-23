@@ -44,7 +44,7 @@ Already on the site, linked from the opening message and not copied again: [Appe
 | Sept 22, 4:32 p.m. | Public-records commentary | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-first-amendment-public-records.md) |
 | Sept 22, 8:23 p.m. | Contra Costa common-law deceit commentary | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
 
-Served plaintiff set (clerk filing not shown): [objection hub](../../03-CASE-CGC-25-631802/sept22-2026-objection-defense-supp/README.md).
+Served plaintiff set: [objection hub](../../03-CASE-CGC-25-631802/sept22-2026-objection-defense-supp/README.md).
 
 Received defense set (register DocID not shown): [defense supplemental hub](../../03-CASE-CGC-25-631802/sept22-2026-defense-supplemental-brief/README.md).
 

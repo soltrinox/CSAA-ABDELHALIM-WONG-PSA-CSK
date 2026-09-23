@@ -2,7 +2,7 @@
 
 > **This page is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. It is not service of any paper on any party. It does not restart any Code of Civil Procedure section 128.7 period. Publishing this page is not service.
 
-> Allegations in complaints and in this chronology are unproven until a court adjudicates them. The dates, quotations, and transaction numbers below are taken from the claim file, the reporter's transcript, and papers already on file in CGC-21-594102, A173827, CGC-25-631801, and CGC-25-631802. Formal positions remain those stated in the filed papers.
+> The dates, quotations, and transaction numbers below are taken from the claim file, the reporter's transcript, and papers already on file in CGC-21-594102, A173827, CGC-25-631801, and CGC-25-631802. Formal positions remain those stated in the filed papers.
 
 Each entry states the act, who did it, and the record it comes from. A short legal label appears where the filed papers already name one. [Back to the ten sharpest acts](README.md#ten-defense-acts).
 

@@ -1,4 +1,4 @@
-**Plaintiff-authored analytical writing. Not a court filing. Not legal advice. Allegations in complaints are unproven until adjudicated.**
+**Plaintiff-authored analytical writing. Not a court filing.**
 
 **Related on this site:** [MERITS.md](../MERITS.md) · [ANTI-SLAPP-OFF-RAMPS.md](../ANTI-SLAPP-OFF-RAMPS.md) · [802 case hub](../03-CASE-CGC-25-631802/INDEX.md) · [LEGAL-AUTHORITIES.md](../LEGAL-AUTHORITIES.md) · [Case law index](../CASE-LAW-AND-STATUTES/INDEX.md)
 

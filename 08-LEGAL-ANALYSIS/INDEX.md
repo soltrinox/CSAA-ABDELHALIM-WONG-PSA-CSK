@@ -69,7 +69,7 @@ Public commentary published September 22, 2026, setting out the common-law decei
 
 **Key topics:** Civil Code sections 1709 and 1710(1); *Moradi-Shalal* pages 304-305; completed-investigation representation; report-identified 911, body-worn-camera, and CAD evidence; later verdict; no private statutory cause of action.
 
-**Publication status:** The legal formulation was sent to CSAA and its counsel September 22, 2026. The sent email is [here](../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md). The verified complaint is on file as C26-02801; exact clerk filing date and conformed stamp are not shown in the local copy. Service of summons and complaint was not perfected as of September 22, 2026. Publishing is not service.
+**Publication status:** The legal formulation was sent to CSAA and its counsel September 22, 2026. The sent email is [here](../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md). The verified complaint is on file as C26-02801. Publishing is not service.
 
 ---
 

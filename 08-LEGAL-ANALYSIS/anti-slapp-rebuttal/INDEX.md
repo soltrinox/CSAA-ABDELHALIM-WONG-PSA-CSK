@@ -21,4 +21,4 @@ Defense clerk images and Plaintiff April 2026 responses live under [03-CASE-CGC-
 
 ---
 
-*Analysis reflects Plaintiff’s filed opposition and related materials. Nothing here is legal advice.*
+*Analysis reflects Plaintiff’s filed opposition and related materials.*

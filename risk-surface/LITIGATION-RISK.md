@@ -1,4 +1,3 @@
-**Disclaimer:** This is general California civil-litigation strategy, not legal advice about your specific matters (CGC-25-631801 and whatever “802” maps to in your file). Outcomes depend on facts, briefing, the judge, and appellate review.
 
 ---
 

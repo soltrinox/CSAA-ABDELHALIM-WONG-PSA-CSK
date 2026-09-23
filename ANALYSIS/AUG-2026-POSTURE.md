@@ -44,7 +44,7 @@ The same instrument continues the motion and orders supplemental briefs on trial
 
 **Citation map (exact excerpts):** [AUG26-COURT-POSTURE-AND-391-FINALITY.md](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md)
 
-**Commentary (not a filing; not claimed served):** [LETTER-TO-OCONNELL-AUG27-2026.md](../LETTER-TO-OCONNELL-AUG27-2026.md)
+**Commentary (not a filing):** [LETTER-TO-OCONNELL-AUG27-2026.md](../LETTER-TO-OCONNELL-AUG27-2026.md)
 
 ---
 

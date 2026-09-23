@@ -35,5 +35,3 @@ Under that framing, the problem is **instructional/legal**, not a benign exercis
 From the appellant’s perspective, the appeal is structured as: **mandatory duty under § 614** + **wrong legal category (statutes as evidence)** + **affirmative prohibition during deliberations** → **reversible instructional error**, not a close call on case management. Any defense that does not **frontally** address that structure (for example, by showing a legally correct alternative basis for the ruling, or a record that defeats the appellant’s sequence of facts) risks looking like collateral argument rather than an answer to the **dispositive** frame.
 
 ---
-
-*Disclaimer: This is analytical education based on standard California doctrine and the appellant’s framing in your materials. It is not legal advice, and outcomes depend on the complete record and the Court of Appeal’s application of law to facts.*

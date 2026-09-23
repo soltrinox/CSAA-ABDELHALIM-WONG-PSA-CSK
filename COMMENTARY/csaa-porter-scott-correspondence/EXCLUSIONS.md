@@ -7,7 +7,7 @@
 | `STRATEGY-DANGER/` | Excluded (whole-document) | Test 3 absolute; never published |
 | Internal analysis trees (`ANALYTICAL-REPORTS/`, `AUG-26-READINESS/` working papers, `JULY-21-DEFENSE/` non-sent) | Excluded | Not already-sent correspondence; internal |
 | Court-staff mail (25 messages) | Linked in message index; not counted as Porter Scott party speech | From SFSC calendar/tentative addresses |
-| `LETTER-TO-OCONNELL-AUG21-2026*` / `AUG27*` | Linked as personal-dialogue commentary only; **not claimed served** | Site already labels send-status unverified / not claimed served |
+| `LETTER-TO-OCONNELL-AUG21-2026*` / `AUG27*` | Linked as personal-dialogue commentary | Commentary letters on the site |
 | `CONTRADICTION-LETTER*` | Not added as CSAA/Porter Scott mail without verified send | Index marks **[VERIFY-HUMAN]** |
 | AAA membership / marketing / newsletters | None found in this export | Skip count: 0 |
 | Unsent drafts / privileged unsent | Excluded | Test 1 / privilege |

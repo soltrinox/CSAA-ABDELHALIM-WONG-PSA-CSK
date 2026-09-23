@@ -144,7 +144,7 @@ flowchart TB
 
 ## 8. Disclaimer
 
-All documents are filed or published as described. Nothing here is legal advice. Allegations in complaints are allegations until proven; statements in transcripts are record quotations when cited with day and line or page as provided in the linked PDFs.
+All documents are filed or published as described. Statements in transcripts are record quotations when cited with day and line or page as provided in the linked PDFs.
 
 ---
 

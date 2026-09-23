@@ -1,6 +1,6 @@
 # Contra Costa C26-02801: the core wrong and the *Moradi-Shalal* preservation clause
 
-> **Public commentary published September 22, 2026.** This page is not a court filing, is not service of any paper, and does not restart any Code of Civil Procedure section 128.7 period. The legal formulation below was sent by email to CSAA and its counsel on September 22, 2026. The verified complaint is on file in Contra Costa Superior Court as Case No. C26-02801. The exact clerk filing date and a conformed-stamp image are not present in the local copy. Service of summons and complaint was not perfected as of September 22, 2026. Allegations remain unproven unless and until adjudicated.
+> **Public commentary published September 22, 2026.** This page is not a court filing, is not service of any paper, and does not restart any Code of Civil Procedure section 128.7 period. The legal formulation below was sent by email to CSAA and its counsel on September 22, 2026. The verified complaint is on file in Contra Costa Superior Court as Case No. C26-02801.
 
 ## Banner argument
 
@@ -72,7 +72,7 @@ The verdict therefore does not adjudicate the investigation or the truth of the 
 
 ## Record links
 
-- [Verified Complaint for Common-Law Fraudulent Misrepresentation, C26-02801](VERIFIED-COMPLAINT-C26-02801.pdf), local filed-copy mirror; exact clerk filing date and conformed stamp not shown.
+- [Verified Complaint for Common-Law Fraudulent Misrepresentation, C26-02801](VERIFIED-COMPLAINT-C26-02801.pdf).
 - [February 25, 2021 CSAA denial letter](../MERITS-EXHIBITS/CSAA_Denial_Letter-Feb-25-2021.pdf).
 - [CSAA investigation report exhibit](../04-EXHIBITS/EXHIBIT-001-CSAA-Investigation-Report.pdf).
 - [April 9, 2026 CSAA anti-SLAPP memorandum extraction](../DEFENSE-FILINGS/CGC-25-631802/2026-04-09__mpa__mpa-anti-slapp-mpas---anti-slapp/extraction.md).

@@ -4,7 +4,7 @@
 **Cases named for context:** CGC-25-631801 · CGC-25-631802 · A173827 · CGC-21-594102.
 **This index is not a filing.** It is not new service on Porter Scott. It does not restart any Code of Civil Procedure section 128.7 clock.
 
-One row per **event** (not per `_1.md` twin). Canonical path is the public file that holds the Rosario-sent text, or a stub that links to a body already on this site. August 27, 2026 personal dialogue: **not claimed served**; Rule 3 spans use the locked redaction marker.
+One row per **event** (not per `_1.md` twin). Canonical path is the public file that holds the Rosario-sent text, or a stub that links to a body already on this site. August 27, 2026 personal dialogue: Rule 3 spans use the locked redaction marker.
 
 Reusable face banners: [reservation of rights](banners/reservation-of-rights.md) · [personal-dialogue](banners/personal-dialogue.md) · [meet-and-confer](banners/meet-and-confer.md) · [safe-harbor-1287](banners/safe-harbor-1287.md) · [settlement-1152](banners/settlement-1152.md) · [service-transmittal](banners/service-transmittal.md)
 
@@ -14,10 +14,7 @@ Reusable face banners: [reservation of rights](banners/reservation-of-rights.md)
 
 - Historical sent text is left as sent (typos, emoji, punctuation).
 - Defense From is omitted **from this 32-event table**. The April 30 O'Connell email pressing withdrawal and threatening an access bar is defense-originated and is not Rosario speech. The same inbound mail **is** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, with a face label.
-- August 21, 2026 letter: **not claimed served**.
-- August 27, 2026 letter: **not claimed served**; Rule 3 spans use the locked redaction marker.
-- Contradiction pair: send-status **[VERIFY-HUMAN]** (not in the May 6, 2026 Porter Scott export).
-- April 25 TAC-aligned merits: **[VERIFY-HUMAN]** (promoted from `TEMP/MERITS/0003.md`; no Support polished twin located).
+- August 27, 2026 letter: Rule 3 spans use the locked redaction marker.
 
 Folder overview: [README.md](README.md)
 
@@ -58,8 +55,8 @@ Folder overview: [README.md](README.md)
 | 2026-05-08 | CCP 128.7 safe-harbor letter (802) | Safe-harbor 128.7 | Standalone letter dated May 8, 2026 | [safe-harbor-1287/2026-05-08-1287-802.md](safe-harbor-1287/2026-05-08-1287-802.md) |
 | (date [VERIFY-HUMAN]) | Contradiction letter (structural contradiction / settlement) | Settlement (Evid. Code 1152) | **[VERIFY-HUMAN]** not in May 6 Porter Scott export | [STUB](settlement-1152/STUB-contradiction-letter.md) · [CONTRADICTION-LETTER.md](../CONTRADICTION-LETTER.md) · [email twin](../CONTRADICTION-LETTER-EMAIL.md) |
 | 2026-07-27 | CCP 128.7 safe-harbor on defense access/fee papers | Safe-harbor 128.7 | Standalone letter dated/served July 27, 2026 | [safe-harbor-1287/2026-07-27-1287-vexatious-802.md](safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
-| 2026-08-21 | Personal dialogue letter to Tyler J. O'Connell | Personal dialogue | Published; **not claimed served** | [STUB](personal-dialogue/STUB-2026-08-21-letter.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md) |
-| 2026-08-27 | Personal dialogue letter to Tyler J. O'Connell (post-Aug 26 stay / jurisdiction) | Personal dialogue | Published; **not claimed served**; Rule 3 spans redacted | [STUB](personal-dialogue/STUB-2026-08-27-letter.md) · [LETTER-TO-OCONNELL-AUG27-2026.md](../LETTER-TO-OCONNELL-AUG27-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md) |
+| 2026-08-21 | Personal dialogue letter to Tyler J. O'Connell | Personal dialogue | Published | [STUB](personal-dialogue/STUB-2026-08-21-letter.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md) |
+| 2026-08-27 | Personal dialogue letter to Tyler J. O'Connell (post-Aug 26 stay / jurisdiction) | Personal dialogue | Published; Rule 3 spans redacted | [STUB](personal-dialogue/STUB-2026-08-27-letter.md) · [LETTER-TO-OCONNELL-AUG27-2026.md](../LETTER-TO-OCONNELL-AUG27-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md) |
 | 2026-09-21 2:20 p.m. | Commentary: WAIVER? Really? | Personal dialogue | Sent. Rule 3 spans redacted | [personal-dialogue/2026-09-21-commentary-waiver.md](personal-dialogue/2026-09-21-commentary-waiver.md) |
 | 2026-09-21 7:08 p.m. | Merits reply on the same thread | Personal dialogue | Sent | [personal-dialogue/2026-09-21-commentary-waiver-merits.md](personal-dialogue/2026-09-21-commentary-waiver-merits.md) |
 | 2026-09-21 9:20 p.m. | Voice-transcription reply | Personal dialogue | Sent | [personal-dialogue/2026-09-21-commentary-waiver-voice.md](personal-dialogue/2026-09-21-commentary-waiver-voice.md) |
@@ -67,7 +64,7 @@ Folder overview: [README.md](README.md)
 | 2026-09-22 9:45 a.m. | Declarations cover | Personal dialogue | Sent. Sender states filed; clerk transaction not shown | [personal-dialogue/2026-09-22-commentary-waiver-declarations.md](personal-dialogue/2026-09-22-commentary-waiver-declarations.md) |
 | 2026-09-22 9:48 a.m. | Professionalism record | Personal dialogue | Sent. Rule 3 span redacted | [personal-dialogue/2026-09-22-commentary-waiver-record.md](personal-dialogue/2026-09-22-commentary-waiver-record.md) |
 | 2026-09-22 12:03 p.m. | Excerpt declarations | Personal dialogue | Sent. Sender states filed; clerk transaction not shown | [personal-dialogue/2026-09-22-commentary-waiver-excerpts.md](personal-dialogue/2026-09-22-commentary-waiver-excerpts.md) |
-| 2026-09-22 2:13 p.m. | E-service of objection to the defense supplemental brief (802) | Service transmittal | Sent. Served; clerk filing not shown | [service-transmittal/2026-09-22-802-objection-defense-supp.md](service-transmittal/2026-09-22-802-objection-defense-supp.md) |
+| 2026-09-22 2:13 p.m. | E-service of objection to the defense supplemental brief (802) | Service transmittal | Sent. Served | [service-transmittal/2026-09-22-802-objection-defense-supp.md](service-transmittal/2026-09-22-802-objection-defense-supp.md) |
 | 2026-09-22 3:58 p.m. | Reply to Department 302 | Personal dialogue | Sent. Rule 3 span redacted | [personal-dialogue/2026-09-22-clerk-reply-objections.md](personal-dialogue/2026-09-22-clerk-reply-objections.md) |
 | 2026-09-22 4:32 p.m. | Public-records commentary | Personal dialogue | Sent | [personal-dialogue/2026-09-22-first-amendment-public-records.md](personal-dialogue/2026-09-22-first-amendment-public-records.md) |
 | 2026-09-22 8:23 p.m. | Contra Costa common-law deceit commentary | Personal dialogue | Sent | [personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md](personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |

@@ -44,4 +44,4 @@ Both cannot be true. The reconciliation, on the face of the record, *requires be
 
 ## Disclaimer
 
-These PDFs are public-record documents (a pre-litigation insurer claim communication and two filed declarations from the Clerk's Transcript in CGC-21-594102). They are republished here for transparency and meet-and-confer purposes. Allegations in the related Third Amended Complaints are unproven until adjudicated. Nothing in this folder is legal advice.
+These PDFs are public-record documents (a pre-litigation insurer claim communication and two filed declarations from the Clerk's Transcript in CGC-21-594102). They are republished here for transparency and meet-and-confer purposes.

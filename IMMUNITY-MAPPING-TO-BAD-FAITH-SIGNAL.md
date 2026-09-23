@@ -1,6 +1,6 @@
 # The Litigation Privilege Trap: How an Insurance Carrier’s Defense Strategy Becomes an Admission of Unreasonable Investigation
 
-> Open public record. Plaintiff-authored analytical narrative; **not a court filing** and not legal advice. Allegations in complaints remain unproven until adjudicated. Insurance Code section 790.03 and the Fair Claims Settlement Practices Regulations appear solely as **standard of care** under *Moradi-Shalal* / *Zhang*. No private right of action under section 790.03 is asserted here. “Bad faith” is used as descriptive shorthand for *Egan* / *Wilson* investigation unreasonableness and Fair Claims objectivity failure, not as a freestanding third-party covenant claim (*Murphy*).
+> Open public record. Plaintiff-authored analytical narrative; **not a court filing**. Insurance Code section 790.03 and the Fair Claims Settlement Practices Regulations appear solely as **standard of care** under *Moradi-Shalal* / *Zhang*. No private right of action under section 790.03 is asserted here. “Bad faith” is used as descriptive shorthand for *Egan* / *Wilson* investigation unreasonableness and Fair Claims objectivity failure, not as a freestanding third-party covenant claim (*Murphy*).
 
 **Cases (context):** CGC-25-631801 · CGC-25-631802 · Claim No. 1004-09-1054  
 **Homepage:** [README.md](README.md)  
@@ -151,7 +151,7 @@ When an insurer's immunity strategy is tested in California courts, courts rely 
 
 ## Accrual vs. Admission: When the Statute of Limitations Starts
 
-> This section is plaintiff-authored analysis aligned with the delayed-discovery pleading in the institutional complaint architecture. It is not a court filing and not legal advice.
+> This section is plaintiff-authored analysis aligned with the delayed-discovery pleading in the institutional complaint architecture. It is not a court filing.
 
 The April 9, 2026 anti-SLAPP filings in CGC-25-631801 and CGC-25-631802 are **not** the statute-of-limitations start date for the empty-file / concealment wrong. They are a later **purpose confession** (party admission). The pleaded delayed-discovery accrual for that primary right remains **April 16, 2025 (Trial Day 7)**.
 

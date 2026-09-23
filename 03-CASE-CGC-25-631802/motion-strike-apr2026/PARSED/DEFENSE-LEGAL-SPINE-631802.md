@@ -64,7 +64,7 @@ The 802 MPA (MPA2-CCP436) carries seven discrete clusters of authority error. Fo
 
 ---
 
-## 6. Plaintiff objection / rebuttal hooks (record themes — not legal advice)
+## 6. Plaintiff objection / rebuttal hooks (record themes)
 
 - **Discretion:** CCP **§ 436** is **not** a determination that **fraud** or **UCL** **damages** are “false” on the **face** — many issues are **evidentiary** or **contradicted** by the **transcript** / **admissions** (see [GITHUB-PAGE/CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md](../../GITHUB-PAGE/CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) **factual** spine: 911, BWC, CAD, Day-7).  
 - **Punitive:** Pleading-stage **vs** **Cotton** / **Nieto** — whether **clear and convincing** is **pleaded** with **particularity**; **9–1 cap** and **SUV** if applicable.  

@@ -2,7 +2,7 @@
 
 **Case:** *Franciscus Dylan Rosario v. CSAA Insurance Exchange et al.*, San Francisco Superior Court, CGC-25-631802.  
 
-This note summarizes **why** the April 28–29, 2026 filing burst happened and how the pieces fit together. It is **narrative only**—not legal advice.
+This note summarizes **why** the April 28-29, 2026 filing burst happened and how the pieces fit together.
 
 ---
 

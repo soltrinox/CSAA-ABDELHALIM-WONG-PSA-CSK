@@ -54,4 +54,4 @@ These were fetched into `statutes-cal/` to support inline links where the code s
 Canonical copies of the same files also exist under the repository root `CASE-LAW-AND-STATUTES/statutes-cal/` (outside `GITHUB-PAGE/`) for non-site workflows.
 
 ---
-*This page is navigation only, not legal advice.*
+*This page is navigation only.*

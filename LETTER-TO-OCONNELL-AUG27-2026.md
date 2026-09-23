@@ -7,7 +7,7 @@
 **Re:** CGC-25-631801; CGC-25-631802; A173827 (CGC-21-594102)  
 **Status:** Personal dialogue and public commentary. **Not a court filing.**
 
-> Open public record of personal expression. Nothing here is legal advice. Allegations in complaints remain unproven until adjudicated. Formal litigation positions are only those stated in papers on file.
+> Open public record of personal expression. Formal litigation positions are only those stated in papers on file.
 
 > **Publication note.** This page is commentary under the First Amendment and article I, section 2. It is not a filing. It is not service. It does not restart any Code of Civil Procedure section 128.7 clock. Where a Rule 3 span appears, the locked marker is used. The marker does not describe the withheld words.
 
@@ -77,7 +77,7 @@ Enjoy your weekend.
 | Addressee | Tyler J. O'Connell, Porter Scott, as counsel and as conduit to CSAA |
 | Date | August 27, 2026 |
 | Cases named for context only | CGC-25-631801; CGC-25-631802; A173827; CGC-21-594102 |
-| Sent status | Published on this site August 27, 2026. **Not claimed served.** |
+| Sent status | Published on this site August 27, 2026. |
 | Email-ready twin | [LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md](LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md) |
 | Related public letters | [LETTER-TO-OCONNELL-AUG21-2026.md](LETTER-TO-OCONNELL-AUG21-2026.md) · [CONTRADICTION-LETTER.md](CONTRADICTION-LETTER.md) |
-| Correspondence archive | [correspondence/INDEX.md](correspondence/INDEX.md) (personal dialogue; **not claimed served**) |
+| Correspondence archive | [correspondence/INDEX.md](correspondence/INDEX.md) (personal dialogue) |
