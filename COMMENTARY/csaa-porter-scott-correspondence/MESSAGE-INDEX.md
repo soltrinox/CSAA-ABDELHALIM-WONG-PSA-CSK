@@ -1,6 +1,6 @@
 # Message index: CSAA and Porter Scott correspondence
 
-> **This page is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is **not** a court filing. It is **not** service of any paper on any party. Publishing is not service and does not restart any Code of Civil Procedure section 128.7 period. Formal positions remain those stated in papers already on file.
+> **This page is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is **not** a court filing. It is **not** service of any paper on any party. Publishing is not service and does not restart any Code of Civil Procedure section 128.7 period. Formal positions remain those stated in papers already on file in CGC-21-594102, A173827, CGC-25-631801, CGC-25-631802, and C26-02801.
 
 Source: August 21, 2026 Porter Scott mailbox export, already published under [`correspondence/full-archive/`](../../correspondence/full-archive/README.md). Each row links to the existing message page. Bodies are not duplicated here.
 
@@ -310,5 +310,7 @@ Source: August 21, 2026 Porter Scott mailbox export, already published under [`c
 | 2026-08-21 | sent | to: "Chad S. Tapp" <ctapp@porterscott.com>, "Tyler O'C | Re: A173827  -  Appellant’s Reply Brief and related filings; settlemen | [00306](../../correspondence/full-archive/outbound/00306.md) | PASS (sent/received correspondence) |
 | 2026-08-21 | sent | to: "Chad S. Tapp" <ctapp@porterscott.com>, "Tyler O'C | CGC-25-631802 ~ Superior Court County of San Francisco-Civil has accep | [00307](../../correspondence/full-archive/outbound/00307.md) | PASS (sent/received correspondence) |
 | 2026-08-21 | sent | to: "Chad S. Tapp" <ctapp@porterscott.com>, "Tyler O'C | Re: CGC-25-631802 ~ Superior Court County of San Francisco-Civil has a | [00308](../../correspondence/full-archive/outbound/00308.md) | PASS (sent/received correspondence) |
+
+Later sent or received mail, not in the 302-row export count: [September 21-22, 2026 outbound](../2026-09-22-defense-outbound/README.md) · [C26-02801 sent formulation](../../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md).
 
 [Commentary hub](README.md) · [CSAA-domain subset](CSAA-DOMAIN.md) · [Full-archive threads](../../correspondence/full-archive/THREADS.md) · [Site root](../../README.md)

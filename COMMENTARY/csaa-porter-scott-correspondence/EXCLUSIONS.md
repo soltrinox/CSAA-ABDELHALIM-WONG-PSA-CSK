@@ -11,7 +11,7 @@
 | `CONTRADICTION-LETTER*` | Not added as CSAA/Porter Scott mail without verified send | Index marks **[VERIFY-HUMAN]** |
 | AAA membership / marketing / newsletters | None found in this export | Skip count: 0 |
 | Unsent drafts / privileged unsent | Excluded | Test 1 / privilege |
-| Post-2026-08-21 mail | The August 21 export stops there. September 21-22, 2026 case mail that was actually sent is in a separate commentary hub | [2026-09-22-defense-outbound](../2026-09-22-defense-outbound/README.md) |
+| Post-2026-08-21 mail | The August 21 export counts stop there. September 21-22, 2026 case mail that was actually sent or received is listed from this folder and published in a separate commentary hub | [README later-mail table](README.md#later-mail-september-21-22-2026) · [2026-09-22-defense-outbound](../2026-09-22-defense-outbound/README.md) · [C26-02801 sent formulation](../../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
 | Older export `porterscott_com_20260506/` | Superseded by Aug 21 full-archive; not re-copied | Duplicate of subset already published |
 
 [Commentary hub](README.md)

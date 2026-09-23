@@ -76,4 +76,14 @@ Only one message in the export is From a `@csaa.com` address:
 
 Body (as published on the inbound page): Morrissey asks to be removed from San Francisco Superior Court service lists, states she is counsel for Abdelhalim in the First District appeal only, and is not counsel of record for CSAA in the superior-court actions. Signature block identifies Koyama & Costello / CSAA Insurance Group.
 
-[Commentary hub](README.md) · [Full message index](MESSAGE-INDEX.md)
+## Later CSAA mail (September 21-22, 2026)
+
+These messages are outside the August 21, 2026 export and are **not** added to the 59-row count above. They are already published as sent or received correspondence.
+
+| Date | Dir | CSAA role | From / To | Subject / thread | Link |
+|------|-----|-----------|-----------|------------------|------|
+| 2026-09-21 | received | From CSAA | Rebekah.Morrissey@csaa.com | Commentary: WAIVER? Really? (6:46 p.m. and 8:22 p.m.) | [inbound](../../correspondence/full-archive/inbound/2026-09-22-morrissey-waiver.md) |
+| 2026-09-21 | sent | To/Cc CSAA | soltrinox@gmail.com to Porter Scott, PSA Law, and Rebekah.Morrissey@csaa.com | Same waiver thread, opening and later replies | [outbound hub](../2026-09-22-defense-outbound/README.md) |
+| 2026-09-22 | sent | To/Cc CSAA | soltrinox@gmail.com; Cc includes Rebekah.Morrissey@csaa.com | Re: Rosario v CSAA, et al. / E-SERVICE / Supplemental Brief; C26-02801 formulation | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
+
+[Commentary hub](README.md) · [Full message index](MESSAGE-INDEX.md) · [C26-02801](../../04-CASE-C26-02801/INDEX.md)
