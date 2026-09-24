@@ -36,6 +36,8 @@ The **five spine facts** are set out in Section 3 of [`CROSS-CASE-NARRATIVE-LEGA
 
 The logic tree in [`CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md`](CROSS-CASE-LOGIC-TREE-AND-CSAA-WORST-CASE.md) maps how **“concluded investigation”** (2021 letter) collides with **“no knowledge / not produced”** (2025 pretrial), and how the **Day-7** admission and **file substitution** close off chain-of-custody exit paths. The short two-page version is [`CONTRADICTION-LETTER.md`](CONTRADICTION-LETTER.md).
 
+The consequence of each choice already on file, including the litigation-privilege election and the April 23, 2025 prohibition on Vehicle Code sections 22107 and 21804, is stated as conclusion, inference, and consequence in the [consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md). That page is commentary. It is not a filing.
+
 ---
 
 ## 5. What is on calendar (verify on the portal)

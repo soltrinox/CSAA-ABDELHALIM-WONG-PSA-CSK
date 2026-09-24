@@ -5,6 +5,7 @@
 | Set | Description |
 |-----|-------------|
 | [PUBLIC-INTEREST-NOTICE.md](PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary. Not a filing. |
+| [CONSEQUENCE-REGISTRY.md](CONSEQUENCE-REGISTRY.md) | Conclusion, inference, and consequence of the deny, delay, defend, and oppose choices already on file. Includes the litigation-privilege choice and the April 23, 2025 jury-question prohibition. Face-labeled commentary. Not a filing. Published September 23, 2026. |
 | [C26-02801 core-wrong page](../04-CASE-C26-02801/INDEX.md) | Filed Contra Costa common-law deceit formulation, with record links. Commentary page; not a filing. |
 | [VEXATIOUS-EXHIBIT-LEDGER.md](VEXATIOUS-EXHIBIT-LEDGER.md) | Commentary ledger of plaintiff writings the defense lodged as vexatious grounds, linked to published pages. Not a filing. |
 | [csaa-porter-scott-correspondence/](csaa-porter-scott-correspondence/README.md) | Index of CSAA and Porter Scott sent/received correspondence, linked into the existing completeness set |

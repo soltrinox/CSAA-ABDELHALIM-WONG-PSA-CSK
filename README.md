@@ -61,6 +61,20 @@ These ten are the sharpest illegal acts in the defense chronology. Each one is a
 
 **[Read the full list](DEFENSE-OFFENSE-CHRONOLOGY.md)**
 
+### What follows from those acts
+
+> **This block is commentary.** It restates consequences already assigned in papers on file. It is not a new filing and does not restart any Code of Civil Procedure section 128.7 period.
+
+Four choices run through the ten acts. Each one already has a consequence in a paper a court has seen. The full table is the [consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md).
+
+**Deny.** The February 25, 2021 letter certified a concluded investigation. The filed deceit complaint alleges the 911, body-worn-camera, and dispatch materials were not in the claim file. Consequence: common-law deceit in C26-02801, and negligent misrepresentation in CGC-25-631802, with 10 CCR section 2695.7 as the standard of care.
+
+**Delay.** The January 2025 declarations told the trial court the same materials were of unknown origin and had not been produced. The April 16, 2025 concession that they "were provided by Dolan" came after the exclusion rulings. Consequence: the equity action in CGC-25-631801 treats that sequence as extrinsic fraud, and the jury returned a 9 to 3 verdict on the record those rulings shaped.
+
+**Defend.** The April 9, 2026 anti-SLAPP papers called the 2021 denial protected petitioning in anticipation of litigation. Consequence: the carrier's own papers describe an adversarial purpose during the claim window. The four results are in [Part 6](#part-6).
+
+**Oppose.** Respondent's brief treats the jury's request for Vehicle Code sections 22107 and 21804 as the plaintiff's waiver. The July 21, 2026 section 391 motion sought an access bar on strike orders now on appeal. Consequence: the reply states the prohibition was delivered before the colloquy later called an invitation, and the August 26, 2026 Department 302 face ruling on the access motion was "Off calendar. Case stayed."
+
 ## The letter that closed a file that was never opened
 
 > **This section is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is not a court filing. It is not service of any paper on any party. It does not restart any Code of Civil Procedure section 128.7 period. Formal positions remain those stated in papers already on file.
@@ -187,6 +201,8 @@ The next day the driver authenticated his own 911 call under oath:
 
 **Why the sequence matters.** The admission came after the in-limine rulings the declarations had already produced. An evidentiary ruling obtained on a representation of unknown provenance is not cured by a mid-trial concession that provenance was known all along, because the ruling had already done its work on the shape of the case the jury heard.
 
+**What the jury was then forbidden to use.** On April 23, 2025, the deliberating jury asked for Vehicle Code sections 22107 and 21804. Judge Garrett L. Wong answered that the jury "may not consider" those sections and that the court would not instruct on them, because they were "not part of the evidence." Appellant's Opening Brief states that the defense had marked the complaint as Defense Exhibit 500, that the complaint pleaded those sections, and that the jury could see them in that exhibit. The filed briefs assign the prohibition as a violation of Code of Civil Procedure section 614 that goes to the substance of the right of trial by jury. The reply's table of authorities places California Constitution article I, sections 7 and 16, and the Fourteenth Amendment, on the pages that state that violation. Full block: [consequence registry, section 3](COMMENTARY/CONSEQUENCE-REGISTRY.md#jury-prohibition).
+
 Detail: [FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md](FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md) · [EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md](EXTRINSIC-FRAUD-THREADING-THE-NEEDLE-801-AND-802.md).
 
 ---
@@ -201,7 +217,7 @@ Detail: [FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md](FATAL-
 
 | Category | Standard the category carries | Why it matters here |
 |---|---|---|
-| Instructional error | De novo | The reviewing court owes the trial court no deference on what the law is; a misstatement in the charge is reviewed fresh |
+| Instructional error | De novo | The reviewing court owes the trial court no deference on what the law is. The filed assignment is the April 23, 2025 prohibition on Vehicle Code sections 22107 and 21804: statutes treated as evidence, and the jury forbidden to use a standard it had asked for after encountering it in Defense Exhibit 500. [Registry section 3](COMMENTARY/CONSEQUENCE-REGISTRY.md#jury-prohibition) |
 | Evidentiary error | Abuse of discretion | Deferential, but a ruling resting on a mistaken factual premise is not an exercise of informed discretion |
 | Juror misconduct | Mixed, with Evidence Code section 1150 limits on what may be considered | Section 1150 permits objectively verifiable misconduct and excludes jurors' subjective mental processes |
 | Procedural and due process | Constitutional, and less forgiving of harmless-error framing | Goes to the fairness of the proceeding rather than the weight of any one ruling |
@@ -249,6 +265,8 @@ Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-
 
 ---
 
+<a id="part-6"></a>
+
 ## Part 6. The one error that runs through both 2025 cases
 
 The two 2025 actions plead different torts against partly different defendants. The defense answered both the same way, and that choice has consequences it cannot now unwind.
@@ -262,7 +280,7 @@ The defense chose the special motion to strike as its vehicle to end both cases.
 
 The net position is that the defense asked a trial court for $70,038.73 and an access bar, on the strength of two rulings now on appeal, in a posture whose central premise concedes that the claims investigation was adversarial rather than objective. On August 26, 2026, Department 302's court-sent face ruling on the section 391 access motion stated "Off calendar. Case stayed." and ordered jurisdiction / *Pittman* briefing. That is the trial court's recognition that the defense was pressing a stayed, non-final posture. Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). Defense moving papers as filed: [vexatious-opposition-aug26-2026/defense/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/defense/). Plaintiff's filed PDFs from the same setting are mirrored in that hub as filed. The site's analysis of those papers is the escape-vehicle point already stated in this Part, not a merits adjudication of the letter.
 
-Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md). Exposure map: [RISK-SURFACE.md](RISK-SURFACE.md).
+Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md). Exposure map: [RISK-SURFACE.md](RISK-SURFACE.md). The same four choices, deny, delay, defend, and oppose, are collected with the paper that assigns each consequence: [consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md).
 
 ---
 
@@ -292,6 +310,7 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 | Commentary set | What it is |
 |----------------|------------|
 | [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary only. Not a filing. |
+| [Consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md) | Conclusion, inference, and consequence of the deny, delay, defend, and oppose choices already on file, including the jury-question prohibition and the litigation-privilege choice. Face-labeled commentary. Not a filing. |
 | [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
 | [September 21-23, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served that day and the September 23, 2026 Department 302 chamber-copy delivery. |
 | [September 23, 2026 investigative referral](correspondence/personal-dialogue/2026-09-23-investigative-referral.md) | Sent commentary inviting independent review of the CSAA denial and the public-safety record. Not a filing. Blind-copy recipients omitted. |
@@ -342,6 +361,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Contra Costa common-law deceit | [C26-02801 core-wrong page](04-CASE-C26-02801/INDEX.md) | Filed complaint, *Moradi-Shalal* preservation clause, and supporting record links |
 | Speech and petition rights | [this page](#speech-petition-and-why-this-archive-is-public) · [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) | First Amendment; California Constitution article I, sections 2, 3, 7, and 16 |
 | Public interest | [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why the whole record is of public interest; commentary, not a filing |
+| Consequences of choices already on file | [Consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md) | Conclusion, inference, and consequence for the denial, the privilege claim, and the jury-question prohibition |
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |
 | Researchers and public | [CASE-DOSSIER.md](CASE-DOSSIER.md) ([PDF](CASE-DOSSIER.pdf)) | Thirty-minute curated tour |

@@ -83,6 +83,8 @@ The trap, viewed from outside, is simple. It has three jaws.
 
 The three jaws close around a single proposition: **the lawyers who told the trial judge they did not know about the evidence had the evidence.** Whether that proposition is framed as an extrinsic-fraud claim against the lawyers, as a corporate-fraud claim against the carrier that funded and directed them, or as instructional-error prejudice on the appeal, the underlying record is the same.
 
+**What follows from those choices.** The filed papers assign a conclusion, an inference, and a consequence to the denial letter, to the later claim that the letter was litigation, and to the trial court's prohibition on the Vehicle Code sections the jury asked for. That table is the [consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md). The registry is commentary. It is not a filing.
+
 The trap's elegance is that the *defense built every piece of it.* The carrier wrote the denial letter. The successor firm filed the motions in limine. Trial counsel made the in-court statements. The defendant authenticated the recording. The trial judge issued the categorical instruction on the Vehicle Code. The plaintiff's contribution is alignment — putting the right pieces of that record in front of the right decision-maker at the right time.
 
 ### The "denial of their own words" collapse

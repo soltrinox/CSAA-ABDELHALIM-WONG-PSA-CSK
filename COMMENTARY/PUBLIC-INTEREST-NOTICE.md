@@ -64,5 +64,6 @@ The First Amendment protects speech and the right to petition. Article I, sectio
 - [CGC-25-631802](../03-CASE-CGC-25-631802/INDEX.md)
 - [C26-02801](../04-CASE-C26-02801/INDEX.md)
 - [Evidence (911, body-worn camera, CAD)](../evidence.md)
+- [Consequence registry](CONSEQUENCE-REGISTRY.md) (commentary; conclusion, inference, and consequence of choices already on file)
 
 [Commentary folder](README.md) · [Site root](../README.md)

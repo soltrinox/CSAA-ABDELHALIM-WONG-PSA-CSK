@@ -18,6 +18,14 @@ This generalized analysis examines how an insurance company’s reliance on pre-
 
 **One-sentence distillation:** By calling a day-twenty-one denial letter “anticipation of litigation,” a carrier tells every forum that mattered that the investigation’s purpose was **to deny for litigation**, not **to find the truth**.
 
+> **Reader block. Commentary, not a filing.** Publishing this paragraph is not service and does not restart any Code of Civil Procedure section 128.7 period.
+
+**Conclusion.** The April 9, 2026 anti-SLAPP papers treat the February 25, 2021 denial as conduct in anticipation of litigation.
+
+**Inference.** The investigation's purpose, on that telling, was adversarial during the claim window.
+
+**Consequence.** The purpose admission, the privilege overclaim, the section 425.17(c) carve-out, and the appeals from the strike orders are collected in the [consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md#privilege-choice). The same registry holds the jury-question prohibition and the deny, delay, defend, and oppose table.
+
 ---
 
 ## The Core Contradiction: Objective Inquiry vs. Adversarial Strategy

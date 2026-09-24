@@ -47,6 +47,7 @@ Long-form narratives (each with pleading trees and record citations) live under 
 
 **Theories as framed in the appeal index (checklist, not adjudication).**
 
+- Instructional error as assigned in the opening brief and the August 20, 2026 reply: on April 23, 2025, the deliberating jury asked for Vehicle Code sections 22107 and 21804; the trial court forbade consideration and refused to instruct, on the premise that the statutes were not evidence. The opening brief states that Defense Exhibit 500, the complaint, already placed those sections before the jury. The briefs assign that prohibition as a Code of Civil Procedure section 614 violation going to the substance of the right of trial by jury. Reader block: [consequence registry, section 3](COMMENTARY/CONSEQUENCE-REGISTRY.md#jury-prohibition).
 - Instructional issues described as mandatory CACI / standard-of-care problems.
 - Evidentiary rulings described as abuse-of-discretion categories (911, body camera, expert disclosure).
 - Juror-misconduct and Evid. Code § 1150 process arguments.
