@@ -25,13 +25,13 @@
 | Cc | dnorton@porterscott.com; vjackson@porterscott.com; mreyes@porterscott.com; cgrandinetti@porterscott.com; rmagallon@porterscott.com; Rebekah.Morrissey@csaa.com |
 | Subject | Re: Rosario v CSAA, et al. / E-SERVICE / Supplemental Brief and Declaration / CGC-25-631802 |
 | Class | Personal dialogue |
-| Sent status | Sent. Gmail message 1a0cc7f2d77fa6f4. |
+| Sent status | Sent. Gmail message 1a0cc7f2d77fa6f4. Rule 3 span redacted. |
 | Case | CGC-25-631802 (thread); commentary on the public record |
 
 
 ## Sent text
 
-The block below is the message as sent. Wording, including typos, is left as sent.
+The block below is the message as sent. Wording, including typos, is left as sent. Rule 3 spans use the locked redaction marker.
 
 ```text
 Counsel,
@@ -41,9 +41,7 @@ The commentary is here:
 https://github.com/soltrinox/CSAA-ABDELHALIM-WONG-PSA-CSK/blob/main/COMMENTARY/2026-09-22-defense-outbound/README.md
 
 Tyler, I answered your filing in about 60 minutes. You put in material the
-judge did not ask for. I sent the objection the same day. Tomorrow I will
-deliver those papers to the court so the judge has them, and so the court
-can see that the supplemental filing goes past the order.
+judge did not ask for. I sent the objection the same day. [REDACTED - forthcoming instrument; not a description of the withheld words]
 
 I am not apologizing. I will keep speaking under the First Amendment and
 article I, section 2 of the California Constitution. That commentary

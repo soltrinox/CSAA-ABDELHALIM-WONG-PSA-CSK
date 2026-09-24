@@ -19,6 +19,6 @@ The counsel notice email: [September 23, 12:14 p.m. service transmittal](../../c
 
 TrueFiling listed these e-serve recipients on the service notification: Erika Garnica (`erika.garnica@csaa.com`); Franciscus Rosario (`soltrinox@gmail.com`); Priya Navaratnasingham (`pnavaratnasingham@psalaw.net`); Rebekah Morrissey (`rebekah.morrissey@csaa.com`).
 
-The combined PDF attached to the counsel email is not mirrored on this page. The application asks the Court to read a short supplement with the September 11 petition before the decision becomes final on October 10, 2026, and requests a three-court-day opposition period. Exhibit B is a draft proposed petition. Its face says DRAFT PROPOSED PETITION. Lodging it in A173827 is not service of a petition for review.
+The combined PDF attached to the counsel email is not mirrored on this page. The application asks the Court to read a short supplement with the September 11 petition before the decision becomes final on October 10, 2026, and requests a three-court-day opposition period.
 
 [Appeal index](../INDEX.md) · [Site root](../../README.md)

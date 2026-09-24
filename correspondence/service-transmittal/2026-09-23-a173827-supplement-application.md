@@ -29,7 +29,7 @@ Hub: [September 23 supplemental-rehearing application](../../01-APPEAL/sept23-20
 
 ## Sent text
 
-The block below is the message as sent. Blind-copy recipients are omitted. Wording, including typos, is left as sent.
+The block below is the message as sent. Blind-copy recipients are omitted. Wording, including typos, is left as sent. Rule 3 spans use the locked redaction marker.
 
 ```text
 Counsel:
@@ -66,18 +66,13 @@ includes street. They do not refer to the turning and yield statutes. The
 transcript has been in the record. The supplement matches the words to the
 response they addressed.
 
-*Exhibit A is that supplement. *Exhibit B is a draft proposed petition,
-lodged so the Court can see the same two points set out at length. Its face
-says DRAFT PROPOSED PETITION. It has not been filed in the Supreme Court.
-Lodging it in A173827 is not service of a petition for review. Please do
-not describe it as one.
+*Exhibit A is that supplement. [REDACTED - forthcoming instrument; not a description of the withheld words]
 
 The proposed order would grant leave, deem Exhibit A filed with the
-September 11 petition, and shorten the time to oppose. It would not deem
-Exhibit B a second rehearing petition or a petition for review.
+September 11 petition, and shorten the time to oppose. [REDACTED - forthcoming instrument; not a description of the withheld words]
 
-As I've already stated, we are prepared to go to the California Supreme
-Court to address this issue. Conduct yourselves accordingly. Enjoy.
+[REDACTED - forthcoming instrument; not a description of the withheld words]
+Conduct yourselves accordingly. Enjoy.
 
 Franciscus Dylan Rosario
  Appellant in pro per
