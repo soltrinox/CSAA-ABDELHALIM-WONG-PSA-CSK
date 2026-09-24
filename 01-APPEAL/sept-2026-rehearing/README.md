@@ -4,6 +4,8 @@
 
 The email that attached them: [September 21 commentary](../../correspondence/personal-dialogue/2026-09-21-commentary-waiver.md).
 
+On September 23, 2026, at 12:04 p.m., TrueFiling accepted an application for leave to supplement this petition. That later filing: [sept23-2026-supplement-rehearing](../sept23-2026-supplement-rehearing/README.md).
+
 | PDF | |
 |-----|--|
 | [01-PETITION-FOR-REHEARING-FILE-STAMPED.pdf](01-PETITION-FOR-REHEARING-FILE-STAMPED.pdf) | Petition for rehearing |

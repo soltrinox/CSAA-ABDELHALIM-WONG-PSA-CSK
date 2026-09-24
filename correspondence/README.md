@@ -2,7 +2,7 @@
 
 Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through counsel. **This folder is not a filing.** It is not new service. It does not restart any Code of Civil Procedure section 128.7 clock.
 
-**Start here:** [INDEX.md](INDEX.md) (curated class archive, 45 events). **Completeness set:** [full-archive/README.md](full-archive/README.md). **Reservation:** [banners/reservation-of-rights.md](banners/reservation-of-rights.md).
+**Start here:** [INDEX.md](INDEX.md) (curated class archive, 48 events). **Completeness set:** [full-archive/README.md](full-archive/README.md). **Reservation:** [banners/reservation-of-rights.md](banners/reservation-of-rights.md).
 
 **Commentary index (not a filing list):** [CSAA and Porter Scott correspondence](../COMMENTARY/csaa-porter-scott-correspondence/README.md) lists every export message by date, direction, and subject, with links into this archive.
 

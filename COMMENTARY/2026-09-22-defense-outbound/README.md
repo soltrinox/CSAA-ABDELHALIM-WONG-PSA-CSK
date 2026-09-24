@@ -1,4 +1,4 @@
-# September 21-22, 2026 outbound commentary and served papers
+# September 21-23, 2026 outbound commentary and served papers
 
 > **This folder is commentary.** It is published as speech under the First Amendment to the United States Constitution and article I, section 2 of the California Constitution. It is **not** a court filing. It is **not** service. Publishing is not service and does not restart any Code of Civil Procedure section 128.7 period.
 
@@ -43,8 +43,12 @@ Already on the site, linked from the opening message and not copied again: [Appe
 | Sept 22, 3:58 p.m. | Reply to Department 302 | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-clerk-reply-objections.md) |
 | Sept 22, 4:32 p.m. | Public-records commentary | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-first-amendment-public-records.md) |
 | Sept 22, 8:23 p.m. | Contra Costa common-law deceit commentary | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
+| Sept 22, 9:21 p.m. | Commentary-site pointer; same-day objection and next-day chamber copies | [personal dialogue](../../correspondence/personal-dialogue/2026-09-22-commentary-site-pointer.md) |
+| Sept 23, 3:16 p.m. | Department 302 chamber copies of the objection | [service transmittal](../../correspondence/service-transmittal/2026-09-23-802-objection-chamber-copies.md) |
 
 September 23, 2026, 10:47 a.m. investigative referral, sent to CSAA, Porter Scott, and `investigations@insurance.ca.gov`. Blind-copy recipients are omitted. [Personal dialogue](../../correspondence/personal-dialogue/2026-09-23-investigative-referral.md).
+
+September 23, 2026, 12:14 p.m. counsel notice that an application for leave to supplement the A173827 petition for rehearing was filed. TrueFiling accepted the combined application at 12:04 p.m. [Service transmittal](../../correspondence/service-transmittal/2026-09-23-a173827-supplement-application.md) · [filing hub](../../01-APPEAL/sept23-2026-supplement-rehearing/README.md).
 
 Served plaintiff set: [objection hub](../../03-CASE-CGC-25-631802/sept22-2026-objection-defense-supp/README.md).
 

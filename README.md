@@ -293,8 +293,9 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 |----------------|------------|
 | [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary only. Not a filing. |
 | [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
-| [September 21-22, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served or received that day. |
+| [September 21-23, 2026 sent commentary and served 802 papers](COMMENTARY/2026-09-22-defense-outbound/README.md) | Mail actually sent to CSAA and Porter Scott, plus the September 22, 2026 papers served that day and the September 23, 2026 Department 302 chamber-copy delivery. |
 | [September 23, 2026 investigative referral](correspondence/personal-dialogue/2026-09-23-investigative-referral.md) | Sent commentary inviting independent review of the CSAA denial and the public-safety record. Not a filing. Blind-copy recipients omitted. |
+| [September 23, 2026 A173827 supplement application](01-APPEAL/sept23-2026-supplement-rehearing/README.md) | TrueFiling-accepted application for leave to supplement the September 11 petition for rehearing. Counsel notice email published as a service transmittal. |
 
 Full message table: [COMMENTARY/csaa-porter-scott-correspondence/MESSAGE-INDEX.md](COMMENTARY/csaa-porter-scott-correspondence/MESSAGE-INDEX.md). Exclusions: [EXCLUSIONS.md](COMMENTARY/csaa-porter-scott-correspondence/EXCLUSIONS.md).
 
@@ -309,10 +310,10 @@ The archive matters because, after the empty-file certification, the defense tre
 | Class | Events | What the class is | Representative item |
 |---|---|---|---|
 | Evidence Code 1152 settlement | 4 | Written toward compromise; inadmissible to prove liability | [March 7, 2026 global demand](correspondence/settlement-1152/2026-03-07-demand-75m.md) |
-| Service transmittal | 11 | Transmits papers or proofs of service | [September 22, 2026 objection e-service](correspondence/service-transmittal/2026-09-22-802-objection-defense-supp.md) |
+| Service transmittal | 13 | Transmits papers or proofs of service | [September 23, 2026 Department 302 chamber copies](correspondence/service-transmittal/2026-09-23-802-objection-chamber-copies.md) |
 | Meet and confer | 7 | Satisfies a statutory conference obligation before a motion | [April 25, 2026 merits letter](correspondence/meet-and-confer/2026-04-25-tac-aligned-merits.md) |
 | CCP 128.7 safe harbor | 7 | Starts or preserves the twenty-one day sanctions clock | [July 27, 2026 safe-harbor letter on defense access/fee papers](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
-| Personal dialogue | 16 | Speech, not a filing and not a statutory paper | [September 23, 2026 investigative referral](correspondence/personal-dialogue/2026-09-23-investigative-referral.md) |
+| Personal dialogue | 17 | Speech, not a filing and not a statutory paper | [September 23, 2026 investigative referral](correspondence/personal-dialogue/2026-09-23-investigative-referral.md) |
 
 Full event table with per-item sent status: [correspondence/INDEX.md](correspondence/INDEX.md). Face banners: [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) · [meet and confer](correspondence/banners/meet-and-confer.md) · [safe harbor 128.7](correspondence/banners/safe-harbor-1287.md) · [settlement 1152](correspondence/banners/settlement-1152.md) · [service transmittal](correspondence/banners/service-transmittal.md)
 

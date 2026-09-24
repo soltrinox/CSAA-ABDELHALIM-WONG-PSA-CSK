@@ -43,6 +43,8 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 
 **File-stamped rehearing papers** attached to the September 21, 2026 commentary email: [sept-2026-rehearing/README.md](sept-2026-rehearing/README.md).
 
+**September 23, 2026:** TrueFiling accepted an application for leave to supplement that petition (`00-COMBINED-APPLICATION-DECLARATION-EXHIBIT-B`, filed 12:04 p.m.). Hub: [sept23-2026-supplement-rehearing/README.md](sept23-2026-supplement-rehearing/README.md). Counsel notice: [service transmittal](../correspondence/service-transmittal/2026-09-23-a173827-supplement-application.md).
+
 | # | Document | PDF |
 |---|----------|-----|
 | 1 | Appellant's Opening Brief | [01-Appellants-Opening-Brief.pdf](01-Appellants-Opening-Brief.pdf) |
