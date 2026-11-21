@@ -49,7 +49,7 @@ This entire record is of public interest. The reasons are stated in [Public Inte
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court; Contra Costa Superior Court; California Court of Appeal, First Appellate District
 **Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 / A177553 (equity, on appeal) · CGC-25-631802 / A177567 (denial-letter fraud, on appeal) · C26-02801 (common-law deceit)
-**Last refresh:** November 17, 2026
+**Last refresh:** November 21, 2026
 
 ## Contra Costa
 
@@ -316,6 +316,7 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 
 | Commentary set | What it is |
 |----------------|------------|
+| [Letter to Commissioner-elect Jane Kim (November 21, 2026)](COMMENTARY/2026-11-21-letter-to-jane-kim.md) | Request that she complete the regulatory review of CDI File No. 8746224 when she takes office. Quotes the Department's December 26, 2024, September 29, 2026, and October 26-27, 2026 writings. Face-labeled. Not a filing. |
 | [Notice charge versus discretion (Reply No. 2)](COMMENTARY/2026-10-18-judicial-discretion-fourteenth-amendment.md) | Section 614 notice charge for the Reply No. 2 enhancement; discretion / correct-answer / no-prejudice answers. Face-labeled. Not a filing. |
 | [Public Interest Notice](COMMENTARY/PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest: Deny letter, Delay MIL declarations, Oppose access bar. Face-labeled commentary only. Not a filing. |
 | [Consequence registry](COMMENTARY/CONSEQUENCE-REGISTRY.md) | Actor + act + object for Deny, Delay, Defend, Oppose already on file, including the jury-question void and the litigation-privilege choice. Face-labeled commentary. Not a filing. |

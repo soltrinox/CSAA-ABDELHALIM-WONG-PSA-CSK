@@ -6,6 +6,7 @@ Canonical diction for choices already on file: **Deny**, **Delay**, **Defend**, 
 
 | Set | Description |
 |-----|-------------|
+| [2026-11-21-letter-to-jane-kim.md](2026-11-21-letter-to-jane-kim.md) | Letter to Commissioner-elect Jane Kim asking her, on taking office January 4, 2027, to complete the regulatory review of CDI File No. 8746224. Quotes the December 26, 2024, September 29, 2026, and October 26-27, 2026 Department writings. Face-labeled. Not a filing. |
 | [CONSEQUENCE-REGISTRY.md](CONSEQUENCE-REGISTRY.md) | Actor + act + object for Deny, Delay, Defend, Oppose already on file, including the litigation-privilege choice and the April 23 jury-question void. Face-labeled. Not a filing. Published September 23, 2026; blunt pass November 17, 2026. |
 | [DEFENSE.FAILURE.md](../DEFENSE.FAILURE.md) | Four respondent acts on the April 23 record in A173827 / S299144: chronology reorder, omit 11 RT 4:11-14, CACI-number swap, objection expansion into consent. Face-labeled. Not a filing. Published November 17, 2026. Homepage visual: [REB.ESQ.png](../REB.ESQ.png) on [site root](../README.md). |
 | [2026-11-17-look-who-rewrote-history.md](2026-11-17-look-who-rewrote-history.md) | Already-sent November 17, 2026, 1:13 p.m. commentary email to the defense team. Cropped cartoons included. Test 3 spans redacted. Face-labeled. Not a filing. Source print PDF archived in this folder. |
